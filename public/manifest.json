@@ -26,13 +26,15 @@
       "src": "/img/screenshots/shot1.png",
       "sizes": "426x926",
       "type": "image/png",
-      "platform": "wide"
+      "form_factor": "narrow",
+      "label": "Mobile Home Screen"
     },
     {
       "src": "/img/screenshots/shot7.png",
-      "sizes": "1296x864",
+      "sizes": "1268x1258",
       "type": "image/png",
-      "platform": "wide"
+      "form_factor": "wide",
+      "label": "Desktop Home Screen"
     }
   ],
   "orientation": "portrait",
@@ -41,8 +43,24 @@
   "lang": "en",
   "name": "QUIZ: Test Your Knowledge!",
   "short_name": "Quiz App",
-  "description": "Test your knowledge with this Quiz App!",
+  "description": "Enhance your nursing and healthcare knowledge with this interactive Quiz App! Challenge yourself with a variety of health-related questions. Perfect for learning and professional development! - Provided by: Dra. AILEEN M. MANINGAS - Developed by: Uel",
   "id": "quiz-app-offline",
   "scope": "/",
-  "start_url": "/"
+  "start_url": "/",
+  "categories": ["education", "games", "entertainment"],
+  "shortcuts": [
+    {
+      "name": "Start Quiz",
+      "short_name": "Quiz",
+      "description": "Start a new quiz",
+      "url": "/start-quiz",
+      "icons": [
+        {
+          "src": "/favicon.ico/web-app-manifest-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
 }
