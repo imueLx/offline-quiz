@@ -1,0 +1,48 @@
+{
+  "theme_color": "#bfdbff",
+  "background_color": "#bfdbfe",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/icon512_rounded.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "192x192",
+      "src": "/favicon.ico/web-app-manifest-192x192.png",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/img/screenshots/shot1.png",
+      "sizes": "426x926",
+      "type": "image/png",
+      "platform": "wide"
+    },
+    {
+      "src": "/img/screenshots/shot7.png",
+      "sizes": "1296x864",
+      "type": "image/png",
+      "platform": "wide"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en",
+  "name": "QUIZ: Test Your Knowledge!",
+  "short_name": "Quiz App",
+  "description": "Test your knowledge with this Quiz App!",
+  "id": "quiz-app-offline",
+  "scope": "/",
+  "start_url": "/"
+}

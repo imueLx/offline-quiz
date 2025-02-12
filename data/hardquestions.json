@@ -1,0 +1,2986 @@
+[{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb2"
+  },
+  "question": "A nurse is caring for a client who is postpartum and has been diagnosed with a superficial venous thrombosis. The nurse reinforces which of the following instructions to the client?",
+  "options": [
+    "Stay in bed until the pain is resolved",
+    "Take hot baths to reduce swelling",
+    "Use warm compresses on the affected area",
+    "Elevate the affected leg on a pillow"
+  ],
+  "answer": "Elevate the affected leg on a pillow",
+  "rationale": "Elevating the affected leg on a pillow can help reduce swelling and discomfort associated with superficial venous thrombosis."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca7"
+  },
+  "question": "A nurse is caring for a client in labor who is receiving Pitocin by IV infusion to stimulate uterine contractions. Which assessment finding would indicate to the nurse that the infusion needs to be discontinued?",
+  "options": [
+    "Three contractions occurring within a 10-minute period",
+    "A fetal heart rate of 90 beats per minute",
+    "Adequate resting tone of the uterus palpated between contractions",
+    "Increased urinary output"
+  ],
+  "answer": "A fetal heart rate of 90 beats per minute",
+  "rationale": "A fetal heart rate of 90 beats per minute is outside the normal range and may indicate fetal distress, requiring discontinuation of Pitocin."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cab"
+  },
+  "question": "A nurse is admitting a pregnant client to the labor room and attaches an external electronic fetal monitor to the client’s abdomen. After attachment of the monitor, the initial nursing assessment is which of the following?",
+  "options": [
+    "Identifying the types of accelerations",
+    "Assessing the baseline fetal heart rate",
+    "Determining the frequency of the contractions",
+    "Determining the intensity of the contractions"
+  ],
+  "answer": "Assessing the baseline fetal heart rate",
+  "rationale": "Assessing the baseline fetal heart rate is the initial nursing assessment after attaching the external electronic fetal monitor."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cbd"
+  },
+  "question": "A nurse is providing instructions to a client who is scheduled for a nonstress test (NST). The nurse tells the client that the test will involve which of the following?",
+  "options": [
+    "A biophysical profile and fetal movement assessment",
+    "Fetal monitoring during contractions",
+    "Monitoring the fetal response to spontaneous movements",
+    "Assessment of fetal scalp pH during contractions"
+  ],
+  "answer": "Monitoring the fetal response to spontaneous movements",
+  "rationale": "A nonstress test (NST) involves monitoring the fetal heart rate in response to its own movements to assess fetal well-being."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc1"
+  },
+  "question": "A nurse is monitoring a client in the first stage of labor who has just received an epidural anesthetic. The nurse should monitor the client closely for which of the following?",
+  "options": [
+    "Frequent urination",
+    "Hypertension",
+    "Increased respirations",
+    "Decreased fetal heart rate variability"
+  ],
+  "answer": "Decreased fetal heart rate variability",
+  "rationale": "Epidural anesthesia can cause maternal hypotension, which can lead to decreased blood flow to the placenta and reduced fetal heart rate variability."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc2"
+  },
+  "question": "A nurse is caring for a client who is receiving an epidural anesthetic for pain control during labor. The nurse should assist the client into which of the following positions after administration of the anesthetic?",
+  "options": [
+    "Supine with a pillow under the right hip",
+    "Lithotomy with stirrups",
+    "Side-lying with a wedge under the right hip",
+    "Semi-Fowler’s with the knees flexed"
+  ],
+  "answer": "Supine with a pillow under the right hip",
+  "rationale": "Positioning the client supine with a pillow under the right hip helps prevent compression of the vena cava and hypotension caused by epidural anesthesia."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc4"
+  },
+  "question": "A nurse is caring for a client who is in labor and has received an epidural anesthetic. The nurse should monitor the client for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Bradycardia",
+    "Decreased respirations",
+    "Hyperactivity",
+    "Excessive bleeding"
+  ],
+  "answer": "Bradycardia",
+  "rationale": "Epidural anesthesia can cause maternal bradycardia due to vasodilation and a decrease in sympathetic nervous system activity."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc8"
+  },
+  "question": "A nurse is caring for a client who is in labor and is receiving an epidural anesthetic for pain management. The nurse should monitor the client closely for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Hypotension",
+    "Bradypnea",
+    "Tachycardia",
+    "Hyporeflexia"
+  ],
+  "answer": "Hypotension",
+  "rationale": "Epidural anesthesia can cause maternal hypotension due to vasodilation and sympathetic blockade, leading to decreased blood pressure."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cca"
+  },
+  "question": "A nurse is caring for a client who is in labor and is receiving an epidural anesthetic for pain management. The nurse should monitor the client closely for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Bradycardia",
+    "Hyperactivity",
+    "Increased urine output",
+    "Tachypnea"
+  ],
+  "answer": "Bradycardia",
+  "rationale": "Epidural anesthesia can cause maternal bradycardia due to sympathetic blockade and decreased sympathetic nervous system activity."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ccb"
+  },
+  "question": "A nurse is caring for a client who is in labor and has received an epidural anesthetic for pain management. The nurse should monitor the client closely for which of the following adverse effects of the anesthesia?",
+  "options": [
+    "Hypertension",
+    "Bradypnea",
+    "Hyperreflexia",
+    "Hypotension"
+  ],
+  "answer": "Hypotension",
+  "rationale": "Epidural anesthesia can cause maternal hypotension due to vasodilation and sympathetic blockade, leading to decreased blood pressure."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ccd"
+  },
+  "question": "A nurse is caring for a client who is in labor and is receiving an epidural anesthetic for pain management. The nurse should monitor the client closely for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Hypotension",
+    "Bradypnea",
+    "Tachycardia",
+    "Hyporeflexia"
+  ],
+  "answer": "Hypotension",
+  "rationale": "Epidural anesthesia can cause maternal hypotension due to vasodilation and sympathetic blockade, leading to decreased blood pressure."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca4"
+  },
+  "question": "A nurse is performing an assessment of a client who is scheduled for a cesarean delivery. Which assessment finding would indicate a need to contact the physician?",
+  "options": [
+    "Fetal heart rate of 180 beats per minute",
+    "White blood cell count of 12,000",
+    "Maternal pulse rate of 85 beats per minute",
+    "Hemoglobin of 11.0 g/dL"
+  ],
+  "answer": "Fetal heart rate of 180 beats per minute",
+  "rationale": "A fetal heart rate of 180 beats per minute can indicate fetal distress and requires immediate medical evaluation."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb4"
+  },
+  "question": "A nurse is reinforcing instructions to a client regarding the measures to prevent nipple soreness while breastfeeding. The nurse instructs the client to:",
+  "options": [
+    "Keep the nipples moist with oil",
+    "Wash the nipples with soap and water after feeding",
+    "Dry the nipples with a soft towel after feeding",
+    "Apply ice packs to the nipples after feeding"
+  ],
+  "answer": "Dry the nipples with a soft towel after feeding",
+  "rationale": "Drying the nipples gently after feeding helps prevent moisture buildup, which can contribute to nipple soreness."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb6"
+  },
+  "question": "A nurse is preparing a teaching plan for a client who is pregnant and is scheduled for a non-stress test. The nurse includes which of the following instructions in the plan?",
+  "options": [
+    "Empty the bladder before the procedure",
+    "Lie on the right side during the procedure",
+    "Expect the test to last for 15 minutes",
+    "Fast for 8 hours before the procedure"
+  ],
+  "answer": "Expect the test to last for 15 minutes",
+  "rationale": "A non-stress test typically lasts about 20-40 minutes, during which fetal heart rate and fetal movement are monitored in response to uterine contractions."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb7"
+  },
+  "question": "A nurse is caring for a client who has just undergone an amniocentesis. The nurse places highest priority on which of the following assessments?",
+  "options": [
+    "Assessing the fetal heart rate",
+    "Measuring the fundal height",
+    "Monitoring the maternal pulse rate",
+    "Assessing for bladder distention"
+  ],
+  "answer": "Assessing the fetal heart rate",
+  "rationale": "Assessing the fetal heart rate is critical after an amniocentesis to detect any signs of fetal distress or complications."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cbf"
+  },
+  "question": "A nurse is caring for a client in labor who has just received an epidural anesthetic. The nurse should monitor the client closely for which of the following?",
+  "options": [
+    "Frequent urination",
+    "Hypotension",
+    "Increased respirations",
+    "Abdominal distention"
+  ],
+  "answer": "Hypotension",
+  "rationale": "Hypotension is a common side effect of epidural anesthesia due to vasodilation and sympathetic blockade, which can decrease blood pressure."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc6"
+  },
+  "question": "A nurse is caring for a client who is receiving an epidural anesthetic for pain management during labor. The nurse should monitor the client closely for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Bradycardia",
+    "Hyperactivity",
+    "Increased urine output",
+    "Tachypnea"
+  ],
+  "answer": "Bradycardia",
+  "rationale": "Epidural anesthesia can cause maternal bradycardia due to sympathetic blockade and decreased sympathetic nervous system activity."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc9"
+  },
+  "question": "A nurse is caring for a client who is in labor and has received an epidural anesthetic for pain management. The nurse monitors the client closely for which of the following adverse effects of the anesthesia?",
+  "options": [
+    "Hyperactivity",
+    "Tachycardia",
+    "Decreased respirations",
+    "Increased urine output"
+  ],
+  "answer": "Decreased respirations",
+  "rationale": "Epidural anesthesia can cause maternal respiratory depression due to the effects of anesthesia on the central nervous system."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca5"
+  },
+  "question": "A client in labor is transported to the delivery room and is prepared for a cesarean delivery. The client is transferred to the delivery room table, and the nurse places the client in the:",
+  "options": [
+    "Trendelenburg’s position with the legs in stirrups",
+    "Semi-Fowler position with a pillow under the knees",
+    "Prone position with the legs separated and elevated",
+    "Supine position with a wedge under the right hip"
+  ],
+  "answer": "Supine position with a wedge under the right hip",
+  "rationale": "The supine position with a wedge under the right hip helps prevent compression of the vena cava, improving blood flow to the heart."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca6"
+  },
+  "question": "A nurse is caring for a client in labor and prepares to auscultate the fetal heart rate by using a Doppler ultrasound device. The nurse most accurately determines that the fetal heart sounds are heard by:",
+  "options": [
+    "Noting if the heart rate is greater than 140 BPM",
+    "Placing the diaphragm of the Doppler on the mother abdomen",
+    "Performing Leopold’s maneuvers first to determine the location of the fetal heart",
+    "Palpating the maternal radial pulse while listening to the fetal heart rate"
+  ],
+  "answer": "Placing the diaphragm of the Doppler on the mother abdomen",
+  "rationale": "Placing the Doppler's diaphragm on the mother's abdomen allows for accurate detection of fetal heart sounds."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca8"
+  },
+  "question": "A nurse is beginning to care for a client in labor. The physician has prescribed an IV infusion of Pitocin. The nurse ensures that which of the following is implemented before initiating the infusion?",
+  "options": [
+    "Placing the client on complete bed rest",
+    "Continuous electronic fetal monitoring",
+    "An IV infusion of antibiotics",
+    "Placing a code cart at the client’s bedside"
+  ],
+  "answer": "Continuous electronic fetal monitoring",
+  "rationale": "Continuous electronic fetal monitoring is crucial to assess the fetal response to Pitocin and detect any signs of fetal distress."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706caa"
+  },
+  "question": "A nurse is caring for a client in labor and is monitoring the fetal heart rate patterns. The nurse notes the presence of episodic accelerations on the electronic fetal monitor tracing. Which of the following actions is most appropriate?",
+  "options": [
+    "Document the findings and tell the mother that the monitor indicates fetal well-being",
+    "Take the mother’s vital signs and tell the mother that bed rest is required to conserve oxygen",
+    "Notify the physician or nurse midwife of the findings",
+    "Reposition the mother and check the monitor for changes in the fetal tracing"
+  ],
+  "answer": "Document the findings and tell the mother that the monitor indicates fetal well-being",
+  "rationale": "Episodic accelerations on the fetal monitor tracing indicate fetal well-being and require documentation for the medical record."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cac"
+  },
+  "question": "A nurse is reviewing the record of a client in the labor room and notes that the nurse midwife has documented that the fetus is at (-1) station. The nurse determines that the fetal presenting part is:",
+  "options": [
+    "1 cm above the ischial spine",
+    "1 fingerbreadth below the symphysis pubis",
+    "1 inch below the coccyx",
+    "1 inch below the iliac crest"
+  ],
+  "answer": "1 cm above the ischial spine",
+  "rationale": "The station of (-1) indicates that the fetal presenting part is 1 cm above the ischial spines, nearing the pelvic inlet."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cad"
+  },
+  "question": "A pregnant client is admitted to the labor room. An assessment is performed, and the nurse notes that the client’s hemoglobin and hematocrit levels are low, indicating anemia. The nurse determines that the client is at risk for which of the following?",
+  "options": [
+    "A loud mouth",
+    "Low self-esteem",
+    "Hemorrhage",
+    "Postpartum infections"
+  ],
+  "answer": "Hemorrhage",
+  "rationale": "Anemia increases the risk of hemorrhage during and after childbirth due to decreased oxygen-carrying capacity and potential blood loss."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb0"
+  },
+  "question": "A nurse is providing postpartum care to a client who delivered vaginally. On the second postpartum day, the nurse notes that the client has developed fever, chills, and a foul-smelling vaginal discharge. The nurse suspects which of the following?",
+  "options": [
+    "Infection",
+    "Dehydration",
+    "Fatigue",
+    "Hypertension"
+  ],
+  "answer": "Infection",
+  "rationale": "Fever, chills, and foul-smelling discharge are signs of infection, such as endometritis, which can occur postpartum and require medical attention."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb1"
+  },
+  "question": "A client who is 1-day postpartum is preparing for discharge. The client asks the nurse about resuming sexual activity. The nurse should make which of the following statements to the client?",
+  "options": [
+    "Intercourse is permitted when the episiotomy site is healed",
+    "Intercourse is permitted once the lochia has become scant",
+    "Intercourse is permitted after the 6-week postpartum check-up",
+    "Intercourse is permitted after the 3-week postpartum check-up"
+  ],
+  "answer": "Intercourse is permitted after the 6-week postpartum check-up",
+  "rationale": "Sexual activity is typically restricted until the 6-week postpartum check-up to allow for healing and reduction of infection risk."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb3"
+  },
+  "question": "A nurse is preparing a teaching plan for a client who is postpartum and plans to breastfeed her newborn. The nurse should include which of the following instructions in the plan?",
+  "options": [
+    "Formula feeding every 2 hours during the day",
+    "Using soap when washing the nipples",
+    "Applying lotion to the nipples after feeding",
+    "Offering each breast at each feeding session"
+  ],
+  "answer": "Offering each breast at each feeding session",
+  "rationale": "Offering each breast at each feeding session helps ensure that the newborn receives hindmilk, which is higher in fat content and essential for growth."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb5"
+  },
+  "question": "A nurse is assisting a client in applying the warm water sitz bath. The nurse instructs the client to:",
+  "options": [
+    "Add bath oil to the water",
+    "Avoid rinsing the perineum afterward",
+    "Use a clean, dry cloth to dry the perineum afterward",
+    "Keep the bath water tepid"
+  ],
+  "answer": "Use a clean, dry cloth to dry the perineum afterward",
+  "rationale": "Drying the perineum gently after a sitz bath helps prevent irritation and discomfort."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb8"
+  },
+  "question": "A client who is at 32 weeks’ gestation is scheduled for an ultrasound to assess fetal growth. The nurse reinforces which of the following instructions to the client?",
+  "options": [
+    "Empty the bladder before the procedure",
+    "Drink 2 quarts of fluid before the procedure",
+    "Lie on the right side during the procedure",
+    "Fast for 12 hours before the procedure"
+  ],
+  "answer": "Drink 2 quarts of fluid before the procedure",
+  "rationale": "Drinking plenty of fluids before the ultrasound helps fill the bladder, providing a clear view of the fetus during the procedure."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cbb"
+  },
+  "question": "A nurse is assisting a pregnant client in developing a plan of care to prevent varicose veins. The nurse should instruct the client to:",
+  "options": [
+    "Take a diuretic daily",
+    "Wear support stockings",
+    "Limit sodium intake",
+    "Avoid ankle and foot exercises"
+  ],
+  "answer": "Wear support stockings",
+  "rationale": "Wearing support stockings helps promote venous return and reduce the risk of developing varicose veins during pregnancy."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cbc"
+  },
+  "question": "A nurse is caring for a pregnant client who is at 38 weeks’ gestation and reports leakage of fluid from the vagina. The nurse performs a nitrazine test on the fluid and notes that the results are positive for amniotic fluid. The nurse should also perform which of the following assessments next?",
+  "options": [
+    "Determine the fetal heart rate",
+    "Obtain a vaginal swab for culture and sensitivity",
+    "Monitor the maternal vital signs",
+    "Check the client’s temperature"
+  ],
+  "answer": "Determine the fetal heart rate",
+  "rationale": "Determining the fetal heart rate is essential after confirming rupture of membranes to assess fetal well-being and response to labor."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc3"
+  },
+  "question": "A nurse is caring for a client who is in labor and has received an epidural anesthetic for pain management. The nurse monitors the client closely for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Respiratory depression",
+    "Tachycardia",
+    "Increased urine output",
+    "Hypertension"
+  ],
+  "answer": "Respiratory depression",
+  "rationale": "Epidural anesthesia can lead to respiratory depression due to the effects of anesthesia on the central nervous system."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc5"
+  },
+  "question": "A nurse is caring for a client who is receiving an epidural anesthetic for pain control during labor. The nurse should monitor the client closely for which of the following maternal adverse effects of the anesthesia?",
+  "options": [
+    "Bradypnea",
+    "Tachycardia",
+    "Hyperreflexia",
+    "Hypotension"
+  ],
+  "answer": "Hypotension",
+  "rationale": "Epidural anesthesia can cause maternal hypotension due to vasodilation and sympathetic blockade, leading to decreased blood pressure."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc7"
+  },
+  "question": "A nurse is caring for a client who is in labor and is receiving an epidural anesthetic for pain management. The nurse should monitor the client closely for which of the following adverse effects of the anesthesia?",
+  "options": [
+    "Increased respirations",
+    "Hyperactivity",
+    "Decreased urine output",
+    "Frequent urination"
+  ],
+  "answer": "Decreased urine output",
+  "rationale": "Epidural anesthesia can cause maternal hypotension, which can lead to decreased renal blood flow and urine output."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ccc"
+  },
+  "question": "A nurse is caring for a client who is in labor and has received an epidural anesthetic for pain management. The nurse should monitor the client closely for which of the following adverse effects of the anesthesia?",
+  "options": [
+    "Hyperactivity",
+    "Increased respirations",
+    "Decreased urine output",
+    "Frequent urination"
+  ],
+  "answer": "Decreased urine output",
+  "rationale": "Epidural anesthesia can cause maternal hypotension, which can lead to decreased renal blood flow and urine output."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca2"
+  },
+  "question": "A nurse is caring for a client in labor. The nurse determines that the client is beginning in the 2nd stage of labor when which of the following assessments is noted?",
+  "options": [
+    "The client begins to expel clear vaginal fluid",
+    "The contractions are regular",
+    "The membranes have ruptured",
+    "The cervix is dilated completely"
+  ],
+  "answer": "The cervix is dilated completely",
+  "rationale": "Complete dilation of the cervix marks the beginning of the second stage of labor."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca3"
+  },
+  "question": "A nurse in the labor room is caring for a client in the active phases of labor. The nurse is assessing the fetal patterns and notes a late deceleration on the monitor strip. The most appropriate nursing action is to:",
+  "options": [
+    "Place the mother in the supine position",
+    "Document the findings and continue to monitor the fetal patterns",
+    "Administer oxygen via face mask",
+    "Increase the rate of pitocin IV infusion"
+  ],
+  "answer": "Document the findings and continue to monitor the fetal patterns",
+  "rationale": "Late decelerations are often indicative of uteroplacental insufficiency and should be documented immediately with continued monitoring."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706ca9"
+  },
+  "question": "A nurse is monitoring a client in active labor and notes that the client is having contractions every 3 minutes that last 45 seconds. The nurse notes that the fetal heart rate between contractions is 100 BPM. Which of the following nursing actions is most appropriate?",
+  "options": [
+    "Encourage the client’s coach to continue to encourage breathing exercises",
+    "Encourage the client to continue pushing with each contraction",
+    "Continue monitoring the fetal heart rate",
+    "Notify the physician or nurse midwife"
+  ],
+  "answer": "Notify the physician or nurse midwife",
+  "rationale": "A fetal heart rate of 100 BPM between contractions may indicate fetal distress and requires further evaluation by the healthcare provider."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cae"
+  },
+  "question": "A nurse assists in the vaginal delivery of a newborn infant. After the delivery, the nurse observes the umbilical cord lengthen and a spurt of blood from the vagina. The nurse documents these observations as signs of:",
+  "options": [
+    "Hematoma",
+    "Placenta previa",
+    "Uterine atony",
+    "Placental separation"
+  ],
+  "answer": "Placental separation",
+  "rationale": "Lengthening of the umbilical cord and a spurt of blood from the vagina indicate placental separation, a normal part of the third stage of labor."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706caf"
+  },
+  "question": "A client arrives at a birthing center in active labor. Her membranes are still intact, and the nurse-midwife prepares to perform an amniotomy. A nurse who is assisting the nurse-midwife explains to the client that after this procedure, she will most likely have:",
+  "options": [
+    "Increased pain",
+    "A higher risk of infection",
+    "More time before delivery",
+    "Less intense contractions"
+  ],
+  "answer": "More time before delivery",
+  "rationale": "Amniotomy can increase the intensity and frequency of contractions but may also accelerate the labor process, leading to less time before delivery."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cb9"
+  },
+  "question": "A nurse is caring for a client who is at 28 weeks’ gestation and has been diagnosed with gestational diabetes mellitus. The nurse reinforces instructions to the client regarding the plan for insulin therapy and tells the client to:",
+  "options": [
+    "Inject the insulin into the thigh",
+    "Take the insulin 30 minutes before meals",
+    "Take the insulin at bedtime only",
+    "Avoid injecting the insulin into the abdomen"
+  ],
+  "answer": "Inject the insulin into the thigh",
+  "rationale": "Injecting insulin into the thigh allows for optimal absorption and reduces the risk of hypoglycemia."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cba"
+  },
+  "question": "A nurse is assisting a client who is pregnant with twins to develop a plan of care for the pregnancy. The nurse should instruct the client to:",
+  "options": [
+    "Expect to gain 24-29 pounds during the pregnancy",
+    "Increase daily intake of carbohydrates",
+    "Continue routine exercise until term",
+    "Monitor fetal movement once daily"
+  ],
+  "answer": "Monitor fetal movement once daily",
+  "rationale": "Monitoring fetal movement is essential in a twin pregnancy to detect changes in fetal activity, which can indicate distress or complications."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cbe"
+  },
+  "question": "A nurse is reinforcing teaching for a pregnant client with type 1 diabetes mellitus regarding insulin needs during pregnancy. The nurse tells the client that insulin needs usually:",
+  "options": [
+    "Increase during the first trimester",
+    "Decrease during the third trimester",
+    "Remain the same throughout pregnancy",
+    "Fluctuate unpredictably throughout pregnancy"
+  ],
+  "answer": "Increase during the first trimester",
+  "rationale": "Insulin needs typically increase during the first trimester due to increased insulin resistance and glucose metabolism changes."
+},
+{
+  "_id": {
+    "$oid": "667c0a1575ef8155cb706cc0"
+  },
+  "question": "A nurse is caring for a client in the first stage of labor and is monitoring the client for signs of impending delivery. The nurse notes the presence of a small amount of vaginal bleeding. The nurse recognizes that this finding is most likely caused by:",
+  "options": [
+    "Placental separation",
+    "Cervical dilation",
+    "Increased uterine tone",
+    "Uteroplacental insufficiency"
+  ],
+  "answer": "Cervical dilation",
+  "rationale": "Vaginal bleeding during labor is often associated with cervical dilation and the passage of the mucous plug, indicating progression toward delivery."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febd6"
+  },
+  "level": 1,
+  "question": "The nurse is assessing a client who is 6 hours PP after delivering a full-term healthy infant. The client complains to the nurse of feelings of faintness and dizziness. Which of the following nursing actions would be most appropriate?",
+  "options": [
+    "Obtain hemoglobin and hematocrit levels",
+    "Instruct the mother to request help when getting out of bed",
+    "Elevate the mother’s legs",
+    "Inform the nursery room nurse to avoid bringing the newborn infant to the mother until the feelings of lightheadedness and dizziness have subsided."
+  ],
+  "answer": "Instruct the mother to request help when getting out of bed",
+  "rationale": "Instruct the mother to request help when getting out of bed. Orthostatic hypotension may be evident during the first 8 hours after birth."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febd9"
+  },
+  "level": 1,
+  "question": "When performing a PP assessment on a client, the nurse notes the presence of clots in the lochia. The nurse examines the clots and notes that they are larger than 1 cm. Which of the following nursing actions is most appropriate?",
+  "options": [
+    "Document the findings",
+    "Notify the physician",
+    "Reassess the client in 2 hours",
+    "Encourage increased intake of fluids."
+  ],
+  "answer": "Notify the physician",
+  "rationale": "Notify the physician. Clots larger than 1 cm are considered abnormal."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febd5"
+  },
+  "level": 1,
+  "question": "A postpartum nurse is taking the vital signs of a woman who delivered a healthy newborn infant 4 hours ago. The nurse notes that the mother’s temperature is 100.2*F. Which of the following actions would be most appropriate?",
+  "options": [
+    "Retake the temperature in 15 minutes",
+    "Notify the physician",
+    "Document the findings",
+    "Increase hydration by encouraging oral fluids."
+  ],
+  "answer": "Increase hydration by encouraging oral fluids.",
+  "rationale": "Increase hydration by encouraging oral fluids. The mother’s temperature may be taken every 4 hours while she is awake. Temperatures up to 100.4 (38 C) in the first 24 hours after birth are often related to the dehydrating effects of labor."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febdd"
+  },
+  "level": 1,
+  "question": "A nurse is caring for a PP woman who has received epidural anesthesia and is monitoring the woman for the presence of a vulva hematoma. Which of the following assessment findings would best indicate the presence of a hematoma?",
+  "options": [
+    "Complaints of a tearing sensation",
+    "Complaints of intense pain",
+    "Changes in vital signs",
+    "Signs of heavy bruising"
+  ],
+  "answer": "Changes in vital signs",
+  "rationale": "Changes in vital signs. Changes in vitals indicate hypovolemia in the anesthetized PP woman with vulvar hematoma."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febdf"
+  },
+  "level": 1,
+  "question": "A new mother received epidural anesthesia during labor and had a forceps delivery after pushing 2 hours. At 6 hours PP, her systolic blood pressure has dropped 20 points, her diastolic BP has dropped 10 points, and her pulse is 120 beats per minute. The client is anxious and restless. On further assessment, a vulvar hematoma is verified. After notifying the health care provider, the nurse immediately plans to:",
+  "options": [
+    "Monitor fundal height",
+    "Apply perineal pressure",
+    "Prepare the client for surgery.",
+    "Reassure the client"
+  ],
+  "answer": "Prepare the client for surgery.",
+  "rationale": "Prepare the client for surgery. The immediate action would be to prepare the client for surgery to stop the bleeding."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febe2"
+  },
+  "level": 1,
+  "question": "A PP nurse is assessing a mother who delivered a healthy newborn infant by C-section. The nurse is assessing for signs and symptoms of superficial venous thrombosis. Which of the following signs or symptoms would the nurse note if superficial venous thrombosis were present?",
+  "options": [
+    "Paleness of the calf area",
+    "Enlarged, hardened veins",
+    "Coolness of the calf area",
+    "Palpable dorsalis pedis pulses"
+  ],
+  "answer": "Enlarged, hardened veins",
+  "rationale": "Enlarged, hardened veins. Thrombosis of the superficial veins is usually accompanied by signs and symptoms of inflammation."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febd8"
+  },
+  "level": 1,
+  "question": "The nurse is assessing the lochia on a 1 day PP patient. The nurse notes that the lochia is red and has a foul-smelling odor. The nurse determines that this assessment finding is:",
+  "options": [
+    "Normal",
+    "Indicates the presence of infection",
+    "Indicates the need for increasing oral fluids",
+    "Indicates the need for increasing ambulation"
+  ],
+  "answer": "Indicates the presence of infection",
+  "rationale": "Indicates the presence of infection. Foul smelling or purulent lochia usually indicates infection."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febda"
+  },
+  "level": 1,
+  "question": "A nurse in a PP unit is instructing a mother regarding lochia and the amount of expected lochia drainage. The nurse instructs the mother that the normal amount of lochia may vary but should never exceed the need for:",
+  "options": [
+    "One peripad per day",
+    "Two peripads per day",
+    "Three peripads per day",
+    "Eight peripads per day"
+  ],
+  "answer": "Eight peripads per day",
+  "rationale": "Eight peripads per day. The normal amount of lochia may vary with the individual but should never exceed 4 to 8 peripads per day."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febd4"
+  },
+  "level": 1,
+  "question": "A postpartum nurse is preparing to care for a woman who has just delivered a healthy newborn infant. In the immediate postpartum period the nurse plans to take the woman’s vital signs:",
+  "options": [
+    "Every 30 minutes during the first hour and then every hour for the next two hours.",
+    "Every 15 minutes during the first hour and then every 30 minutes for the next two hours.",
+    "Every hour for the first 2 hours and then every 4 hours.",
+    "Every 5 minutes for the first 30 minutes and then every hour for the next 4 hours."
+  ],
+  "answer": "Every 15 minutes during the first hour and then every 30 minutes for the next two hours.",
+  "rationale": "Every 15 minutes during the first hour and then every 30 minutes for the next two hours."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febde"
+  },
+  "level": 1,
+  "question": "A nurse is developing a plan of care for a PP woman with a small vulvar hematoma. The nurse includes which specific intervention in the plan during the first 12 hours following the delivery of this client?",
+  "options": [
+    "Assess vital signs every 4 hours",
+    "Inform health care provider of assessment findings",
+    "Measure fundal height every 4 hours",
+    "Prepare an ice pack for application to the area."
+  ],
+  "answer": "Prepare an ice pack for application to the area.",
+  "rationale": "Prepare an ice pack for application to the area. Application of ice will reduce swelling caused by hematoma formation in the vulvar area."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febd7"
+  },
+  "level": 1,
+  "question": "A nurse is preparing to perform a fundal assessment on a postpartum client. The initial nursing action in performing this assessment is which of the following?",
+  "options": [
+    "Ask the client to turn on her side",
+    "Ask the client to lie flat on her back with the knees and legs flat and straight.",
+    "Ask the mother to urinate and empty her bladder",
+    "Massage the fundus gently before determining the level of the fundus."
+  ],
+  "answer": "Ask the mother to urinate and empty her bladder",
+  "rationale": "Ask the mother to urinate and empty her bladder. Before starting the fundal assessment, the nurse should ask the mother to empty her bladder so that an accurate assessment can be done."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febdb"
+  },
+  "level": 1,
+  "question": "A PP nurse is providing instructions to a woman after delivery of a healthy newborn infant. The nurse instructs the mother that she should expect normal bowel elimination to return:",
+  "options": [
+    "One the day of the delivery",
+    "3 days PP",
+    "7 days PP",
+    "within 2 weeks PP"
+  ],
+  "answer": "3 days PP",
+  "rationale": "Normal bowel elimination usually returns 2 to 3 days PP."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febe0"
+  },
+  "level": 1,
+  "question": "A nurse is monitoring a new mother in the PP period for signs of hemorrhage. Which of the following signs, if noted in the mother, would be an early sign of excessive blood loss?",
+  "options": [
+    "A temperature of 100.4*F",
+    "An increase in the pulse from 88 to 102 BPM",
+    "An increase in the respiratory rate from 18 to 22 breaths per minute",
+    "A blood pressure change from 130/88 to 124/80 mm Hg"
+  ],
+  "answer": "An increase in the pulse from 88 to 102 BPM",
+  "rationale": "An increase in the pulse from 88 to 102 BPM. A rising pulse is an early sign of excessive blood loss."
+},
+{
+  "_id": {
+    "$oid": "667c335175ef8155cb8febe1"
+  },
+  "level": 1,
+  "question": "A nurse is preparing to assess the uterine fundus of a client in the immediate postpartum period. When the nurse locates the fundus, she notes that the uterus feels soft and boggy. Which of the following nursing interventions would be most appropriate initially?",
+  "options": [
+    "Massage the fundus until it is firm",
+    "Elevate the mothers legs",
+    "Push on the uterus to assist in expressing clots",
+    "Encourage the mother to void"
+  ],
+  "answer": "Massage the fundus until it is firm",
+  "rationale": "Massage the fundus until it is firm. If the uterus is not contracted firmly, the first intervention is to massage the fundus until it is firm and to express clots that may have accumulated in the uterus."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c8"
+  },
+  "level": 1,
+  "question": "Methergine or pitocin is prescribed for a woman to treat PP hemorrhage. Before administration of these medications, the priority nursing assessment is to check the:",
+  "options": [
+    "Amount of lochia",
+    "Blood pressure",
+    "Deep tendon reflexes",
+    "Uterine tone"
+  ],
+  "answer": "Blood pressure",
+  "rationale": "Methergine and pitocin are agents that are used to prevent or control postpartum hemorrhage by contracting the uterus. They cause continuous uterine contractions and may elevate blood pressure. A priority nursing intervention is to check blood pressure. The physician should be notified if hypertension is present."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c2"
+  },
+  "level": 1,
+  "question": "A nurse is providing instructions to a mother who has been diagnosed with mastitis. Which of the following statements if made by the mother indicates a need for further teaching?",
+  "options": [
+    "“I need to take antibiotics, and I should begin to feel better in 24-48 hours.”",
+    "“I can use analgesics to assist in alleviating some of the discomfort.”",
+    "“I need to wear a supportive bra to relieve the discomfort.”",
+    "“I need to stop breastfeeding until this condition resolves.”"
+  ],
+  "answer": "“I need to stop breastfeeding until this condition resolves.”",
+  "rationale": "In most cases, the mother can continue to breastfeed with both breasts. If the affected breast is too sore, the mother can pump the breast gently. Regular emptying of the breast is important to prevent abscess formation. Antibiotic therapy assists in resolving the mastitis within 24-48 hours. Additional supportive measures include ice packs, breast supports, and analgesics."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064d0"
+  },
+  "level": 1,
+  "question": "On which of the postpartum days can the client expect lochia serosa?",
+  "options": [
+    "Days 3 and 4 PP",
+    "Days 3 to 10 PP",
+    "Days 10-14 PP",
+    "Days 14 to 42 PP"
+  ],
+  "answer": "Days 3 to 10 PP",
+  "rationale": "On the third and fourth PP days, the lochia becomes a pale pink or brown and contains old blood, serum, leukocytes, and tissue debris. This type of lochia usually lasts until PP day 10. Lochia rubra usually last for the first 3 to 4 days PP. Lochia alba, which contain leukocytes, decidua, epithelial cells, mucus, and bacteria, may continue for 2 to 6 weeks PP."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c5"
+  },
+  "level": 1,
+  "question": "A nurse is assessing a client in the 4th stage of labor and notes that the fundus is firm but that bleeding is excessive. The initial nursing action would be which of the following?",
+  "options": [
+    "Massage the fundus",
+    "Place the mother in the Trendelenburg’s position",
+    "Notify the physician",
+    "Record the findings"
+  ],
+  "answer": "Notify the physician",
+  "rationale": "If the bleeding is excessive, the cause may be laceration of the cervix or birth canal. Massaging the fundus if it is firm will not assist in controlling the bleeding. Trendelenburg’s position is to be avoided because it may interfere with cardiac function."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064cb"
+  },
+  "level": 1,
+  "question": "Which of the following interventions would be helpful to a breastfeeding mother who is experiencing engorged breasts?",
+  "options": [
+    "Applying ice",
+    "Applying a breast binder",
+    "Teaching how to express her breasts in a warm shower",
+    "Administering bromocriptine (Parlodel)"
+  ],
+  "answer": "Teaching how to express her breasts in a warm shower",
+  "rationale": "Teaching the client how to express her breasts in a warm shower aids with let-down and will give temporary relief. Ice can promote comfort by vasoconstriction, numbing, and discouraging further letdown of milk."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064cc"
+  },
+  "level": 1,
+  "question": "On completing a fundal assessment, the nurse notes the fundus is situated on the client’s left abdomen. Which of the following actions is appropriate?",
+  "options": [
+    "Ask the client to empty her bladder",
+    "Straight catheterize the client immediately",
+    "Call the client’s health provider for direction",
+    "Straight catheterize the client for half of her uterine volume"
+  ],
+  "answer": "Ask the client to empty her bladder",
+  "rationale": "A full bladder may displace the uterine fundus to the left or right side of the abdomen. Catheterization is unnecessary invasive if the woman can void on her own."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064cf"
+  },
+  "level": 1,
+  "question": "A client is complaining of painful contractions, or afterpains, on postpartum day 2. Which of the following conditions could increase the severity of afterpains?",
+  "options": [
+    "Bottle-feeding",
+    "Diabetes",
+    "Multiple gestation",
+    "Primiparity"
+  ],
+  "answer": "Multiple gestation",
+  "rationale": "Multiple gestation, breastfeeding, multiparity, and conditions that cause overdistention of the uterus will increase the intensity of after-pains. Bottle-feeding and diabetes aren’t directly associated with increasing severity of afterpains unless the client has delivered a macrosomic infant."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c6"
+  },
+  "level": 1,
+  "question": "A nurse is caring for a PP client with a diagnosis of DVT who is receiving a continuous intravenous infusion of heparin sodium. Which of the following laboratory results will the nurse specifically review to determine if an effective and appropriate dose of the heparin is being delivered?",
+  "options": [
+    "Prothrombin time",
+    "International normalized ratio",
+    "Activated partial thromboplastin time",
+    "Platelet count"
+  ],
+  "answer": "Activated partial thromboplastin time",
+  "rationale": "Anticoagulation therapy may be used to prevent the extension of thrombus by delaying the clotting time of the blood. Activated partial thromboplastin time should be monitored, and a heparin dose should be adjusted to maintain a therapeutic level of 1.5 to 2.5 times the control. The prothrombin time and the INR are used to monitor coagulation time when warfarin (Coumadin) is used."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064ca"
+  },
+  "level": 1,
+  "question": "Which of the following factors might result in a decreased supply of breastmilk in a PP mother?",
+  "options": [
+    "Supplemental feedings with formula",
+    "Maternal diet high in vitamin C",
+    "An alcoholic drink",
+    "Frequent feedings"
+  ],
+  "answer": "Supplemental feedings with formula",
+  "rationale": "Routine formula supplementation may interfere with establishing an adequate milk volume because decreased stimulation to the mother’s nipples affects hormonal levels and milk production."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064ce"
+  },
+  "level": 1,
+  "question": "Which of the following findings would be expected when assessing the postpartum client?",
+  "options": [
+    "Fundus 1 cm above the umbilicus 1 hour postpartum",
+    "Fundus 1 cm above the umbilicus on postpartum day 3",
+    "Fundus palpable in the abdomen at 2 weeks postpartum",
+    "Fundus slightly to the right; 2 cm above umbilicus on postpartum day 2"
+  ],
+  "answer": "Fundus 1 cm above the umbilicus 1 hour postpartum",
+  "rationale": "Within the first 12 hours postpartum, the fundus usually is approximately 1 cm above the umbilicus. The fundus should be below the umbilicus by PP day 3. The fundus shouldn’t be palpated in the abdomen after day 10."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c3"
+  },
+  "level": 1,
+  "question": "A PP client is being treated for DVT. The nurse understands that the client’s response to treatment will be evaluated by regularly assessing the client for:",
+  "options": [
+    "Dysuria, ecchymosis, and vertigo",
+    "Epistaxis, hematuria, and dysuria",
+    "Hematuria, ecchymosis, and epistaxis",
+    "Hematuria, ecchymosis, and vertigo"
+  ],
+  "answer": "Hematuria, ecchymosis, and epistaxis",
+  "rationale": "The treatment for DVT is anticoagulant therapy. The nurse assesses for bleeding, which is an adverse effect of anticoagulants. This includes hematuria, ecchymosis, and epistaxis. Dysuria and vertigo are not associated specifically with bleeding."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c4"
+  },
+  "level": 1,
+  "question": "A nurse performs an assessment on a client who is 4 hours PP. The nurse notes that the client has cool, clammy skin and is restless and excessively thirsty. The nurse prepares immediately to:",
+  "options": [
+    "Assess for hypovolemia and notify the health care provider",
+    "Begin hourly pad counts and reassure the client",
+    "Begin fundal massage and start oxygen by mask",
+    "Elevate the head of the bed and assess vital signs"
+  ],
+  "answer": "Assess for hypovolemia and notify the health care provider",
+  "rationale": "Symptoms of hypovolemia include cool, clammy, pale skin, sensations of anxiety or impending doom, restlessness, and thirst. When these symptoms are present, the nurse should further assess for hypovolemia and notify the health care provider."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064c9"
+  },
+  "level": 1,
+  "question": "Methergine or pitocin are prescribed for a client with PP hemorrhage. Before administering the medication(s), the nurse contacts the health provider who prescribed the medication(s) in which of the following conditions is documented in the client’s medical history?",
+  "options": [
+    "Peripheral vascular disease",
+    "Hypothyroidism",
+    "Hypotension",
+    "Type 1 diabetes"
+  ],
+  "answer": "Peripheral vascular disease",
+  "rationale": "These medications are avoided in clients with significant cardiovascular disease, peripheral disease, hypertension, eclampsia, or preeclampsia. These conditions are worsened by the vasoconstriction effects of these medications."
+},
+{
+  "_id": {
+    "$oid": "667c33e375ef8155cb9064cd"
+  },
+  "level": 1,
+  "question": "The nurse is about to give a Type 2 diabetic her insulin before breakfast on her first day postpartum. Which of the following answers best describes insulin requirements immediately postpartum?",
+  "options": [
+    "Lower than during her pregnancy",
+    "Higher than during her pregnancy",
+    "Lower than before she became pregnant",
+    "Higher than before she became pregnant"
+  ],
+  "answer": "Lower than during her pregnancy",
+  "rationale": "PP insulin requirements are usually significantly lower than pre-pregnancy requirements. Occasionally, clients may require little to no insulin during the first 24 to 48 hours postpartum."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c364"
+  },
+  "level": 1,
+  "question": "Which of the following behaviors characterizes the PP mother in the taking in phase?",
+  "options": [
+    "Passive and dependent",
+    "Striving for independence and autonomy",
+    "Curious and interested in care of the baby",
+    "Exhibiting maximum readiness for new learning"
+  ],
+  "answer": "Passive and dependent",
+  "rationale": "During the taking in phase, which usually lasts 1-3 days, the mother is passive and dependent and expresses her own needs rather than the neonate’s needs. The taking hold phase usually lasts from days 3-10 PP. During this stage, the mother strives for independence and autonomy; she also becomes curious and interested in the care of the baby and is most ready to learn."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c36c"
+  },
+  "level": 1,
+  "question": "Which of the following physiological responses is considered normal in the early postpartum period?",
+  "options": [
+    "Urinary urgency and dysuria",
+    "Rapid diuresis",
+    "Decrease in blood pressure",
+    "Increase motility of the GI system"
+  ],
+  "answer": "Rapid diuresis",
+  "rationale": "In the early PP period, there’s an increase in the glomerular filtration rate and a drop in the progesterone levels, which result in rapid diuresis. There should be no urinary urgency, though a woman may feel anxious about voiding. There’s a minimal change in blood pressure following childbirth, and a residual decrease in GI motility."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c365"
+  },
+  "level": 1,
+  "question": "Which of the following complications may be indicated by continuous seepage of blood from the vagina of a PP client, when palpation of the uterus reveals a firm uterus 1 cm below the umbilicus?",
+  "options": [
+    "Retained placental fragments",
+    "Urinary tract infection",
+    "Cervical laceration",
+    "Uterine atony"
+  ],
+  "answer": "Cervical laceration",
+  "rationale": "Continuous seepage of blood may be due to cervical or vaginal lacerations if the uterus is firm and contracting. Retained placental fragments and uterine atony may cause subinvolution of the uterus, making it soft, boggy, and larger than expected. UTI won’t cause vaginal bleeding, although hematuria may be present."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c366"
+  },
+  "level": 1,
+  "question": "What type of milk is present in the breasts 7 to 10 days PP?",
+  "options": [
+    "Colostrum",
+    "Hind milk",
+    "Mature milk",
+    "Transitional milk"
+  ],
+  "answer": "Transitional milk",
+  "rationale": "Transitional milk comes after colostrum and usually lasts until 2 weeks PP."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c368"
+  },
+  "level": 1,
+  "question": "Before giving a PP client the rubella vaccine, which of the following facts should the nurse include in client teaching?",
+  "options": [
+    "The vaccine is safe in clients with egg allergies",
+    "Breastfeeding isn’t compatible with the vaccine",
+    "Transient arthralgia and rash are common adverse effects",
+    "The client should avoid getting pregnant for 3 months after the vaccine because the vaccine has teratogenic effects"
+  ],
+  "answer": "The client should avoid getting pregnant for 3 months after the vaccine because the vaccine has teratogenic effects",
+  "rationale": "The client must understand that she must not become pregnant for 3 months after the vaccination because of its potential teratogenic effects. The rubella vaccine is made from duck eggs so an allergic reaction may occur in clients with egg allergies. The virus is not transmitted into the breast milk, so clients may continue to breastfeed after the vaccination. Transient arthralgia and rash are common adverse effects of the vaccine."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c369"
+  },
+  "level": 1,
+  "question": "Which of the following changes best describes the insulin needs of a client with type 1 diabetes who has just delivered an infant vaginally without complications?",
+  "options": [
+    "Increase",
+    "Decrease",
+    "Remain the same as before pregnancy",
+    "Remain the same as during pregnancy"
+  ],
+  "answer": "Decrease",
+  "rationale": "The placenta produces the hormone human placental lactogen, an insulin antagonist. After birth, the placenta, the major source of insulin resistance, is gone. Insulin needs decrease and women with type 1 diabetes may only need one-half to two-thirds of the prenatal insulin during the first few PP days."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c36e"
+  },
+  "level": 1,
+  "question": "Which of the following circumstances is most likely to cause uterine atony and lead to PP hemorrhage?",
+  "options": [
+    "Hypertension",
+    "Cervical and vaginal tears",
+    "Urine retention",
+    "Endometritis"
+  ],
+  "answer": "Urine retention",
+  "rationale": "Urine retention causes a distended bladder to displace the uterus above the umbilicus and to the side, which prevents the uterus from contracting. The uterus needs to remain contracted if bleeding is to stay within normal limits. Cervical and vaginal tears can cause PP hemorrhage but are less common occurrences in the PP period."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c372"
+  },
+  "level": 1,
+  "question": "Following the birth of her baby, a woman expresses concern about the weight she gained during pregnancy and how quickly she can lose it now that the baby is born. The nurse, in describing the expected pattern of weight loss, should begin by telling this woman that:",
+  "options": [
+    "Return to pre-pregnant weight is usually achieved by the end of the postpartum period",
+    "Fluid loss from diuresis, diaphoresis, and bleeding accounts for about a 3-pound weight loss",
+    "The expected weight loss immediately after birth averages about 11 to 13 pounds",
+    "Lactation will inhibit weight loss since caloric intake must increase to support milk production"
+  ],
+  "answer": "The expected weight loss immediately after birth averages about 11 to 13 pounds",
+  "rationale": "Prepregnant weight is usually achieved by 2 to 3 months after birth, not within the 6-week postpartum period. Weight loss from diuresis, diaphoresis, and bleeding is about 9 pounds. Weight loss continues during breastfeeding since fat stores developed during pregnancy and extra calories consumed are used as part of the lactation process."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c367"
+  },
+  "level": 1,
+  "question": "Which of the following complications is most likely responsible for a delayed postpartum hemorrhage?",
+  "options": [
+    "Cervical laceration",
+    "Clotting deficiency",
+    "Perineal laceration",
+    "Uterine subinvolution"
+  ],
+  "answer": "Uterine subinvolution",
+  "rationale": "Late postpartum bleeding is often the result of subinvolution of the uterus. Retained products of conception or infection often cause subinvolution. Cervical or perineal lacerations can cause an immediate postpartum hemorrhage. A client with a clotting deficiency may also have an immediate PP hemorrhage if the deficiency isn’t corrected at the time of delivery."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c36f"
+  },
+  "level": 1,
+  "question": "Which type of lochia should the nurse expect to find in a client 2 days PP?",
+  "options": [
+    "Foul-smelling",
+    "Lochia serosa",
+    "Lochia alba",
+    "Lochia rubra"
+  ],
+  "answer": "Lochia rubra",
+  "rationale": "Lochia rubra is the type of lochia typically found in the first few days postpartum, consisting of blood, mucus, and uterine tissue."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c370"
+  },
+  "level": 1,
+  "question": "After expulsion of the placenta in a client who has six living children, an infusion of lactated Ringer’s solution with 10 units of Pitocin is ordered. The nurse understands that this is indicated for this client because:",
+  "options": [
+    "She had a precipitate birth",
+    "This was an extramural birth",
+    "Retained placental fragments must be expelled",
+    "Multigravidas are at increased risk for uterine atony"
+  ],
+  "answer": "Multigravidas are at increased risk for uterine atony",
+  "rationale": "Multiple full-term pregnancies and deliveries result in overstretched uterine muscles that do not contract efficiently and bleeding may ensue."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c36a"
+  },
+  "level": 1,
+  "question": "Which of the following responses is most appropriate for a mother with diabetes who wants to breastfeed her infant but is concerned about the effects of breastfeeding on her health?",
+  "options": [
+    "Mothers with diabetes who breastfeed have a hard time controlling their insulin needs",
+    "Mothers with diabetes shouldn’t breastfeed because of potential complications",
+    "Mothers with diabetes shouldn’t breastfeed; insulin requirements are doubled.",
+    "Mothers with diabetes may breastfeed; insulin requirements may decrease from breastfeeding."
+  ],
+  "answer": "Mothers with diabetes may breastfeed; insulin requirements may decrease from breastfeeding.",
+  "rationale": "Breastfeeding has an antidiabetogenic effect. Insulin needs are decreased because carbohydrates are used in milk production. Breastfeeding mothers are at a higher risk of hypoglycemia in the first PP days after birth because the glucose levels are lower. Mothers with diabetes should be encouraged to breastfeed."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c36b"
+  },
+  "level": 1,
+  "question": "On the first PP night, a client requests that her baby be sent back to the nursery so she can get some sleep. The client is most likely in which of the following phases?",
+  "options": [
+    "Depression phase",
+    "Letting-go phase",
+    "Taking-hold phase",
+    "Taking-in phase"
+  ],
+  "answer": "Taking-in phase",
+  "rationale": "The taking-in phase occurs in the first 24 hours after birth. The mother is concerned with her own needs and requires support from staff and relatives. The taking-hold phase occurs when the mother is ready to take responsibility for her care as well as the infant's care. The letting-go phase begins several weeks later, when the mother incorporates the new infant into the family unit."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c36d"
+  },
+  "level": 1,
+  "question": "During the 3rd PP day, which of the following observations about the client would the nurse be most likely to make?",
+  "options": [
+    "The client appears interested in learning about neonatal care",
+    "The client talks a lot about her birth experience",
+    "The client sleeps whenever the neonate isn’t present",
+    "The client requests help in choosing a name for the neonate"
+  ],
+  "answer": "The client appears interested in learning about neonatal care",
+  "rationale": "The third to tenth days of PP care are the 'taking-hold' phase, in which the new mother strives for independence and is eager to learn about her neonate. The other options describe phases where the mother is reliving her birth experience."
+},
+{
+  "_id": {
+    "$oid": "667c346275ef8155cb90c371"
+  },
+  "level": 1,
+  "question": "As part of the postpartum assessment, the nurse examines the breasts of a primiparous breastfeeding woman who is one day postpartum. An expected finding would be:",
+  "options": [
+    "Soft, non-tender; colostrum is present",
+    "Leakage of milk at let down",
+    "Swollen, warm, and tender upon palpation",
+    "A few blisters and a bruise on each areola"
+  ],
+  "answer": "Soft, non-tender; colostrum is present",
+  "rationale": "Breasts are essentially unchanged for the first two to three days after birth. Colostrum is present and may leak from the nipples."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113cd"
+  },
+  "level": 1,
+  "question": "Which of the following findings would be a source of concern if noted during the assessment of a woman who is 12 hours postpartum?",
+  "options": [
+    "Postural hypotension",
+    "Temperature of 100.4°F",
+    "Bradycardia — pulse rate of 55 BPM",
+    "Pain in left calf with dorsiflexion of left foot"
+  ],
+  "answer": "Pain in left calf with dorsiflexion of left foot",
+  "rationale": "Pain in the left calf with dorsiflexion of the left foot indicates a positive Homan sign, suggestive of thrombophlebitis, which requires further investigation."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113cf"
+  },
+  "level": 1,
+  "question": "When performing a postpartum check, the nurse should:",
+  "options": [
+    "Assist the woman into a lateral position with upper leg flexed forward to facilitate the examination of her perineum",
+    "Assist the woman into a supine position with her arms above her head and her legs extended for the examination of her abdomen",
+    "Instruct the woman to avoid urinating just before the examination since a full bladder will facilitate fundal palpation",
+    "Wash hands and put on sterile gloves before beginning the check"
+  ],
+  "answer": "Assist the woman into a lateral position with upper leg flexed forward to facilitate the examination of her perineum",
+  "rationale": "This position is optimal for assessing the perineum during a postpartum check."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113ce"
+  },
+  "level": 1,
+  "question": "The nurse examines a woman one hour after birth. The woman’s fundus is boggy, midline, and 1 cm below the umbilicus. Her lochial flow is profuse, with two plum-sized clots. The nurse’s initial action would be to:",
+  "options": [
+    "Place her on a bedpan to empty her bladder",
+    "Massage her fundus",
+    "Call the physician",
+    "Administer Methergine 0.2 mg IM which has been ordered prn"
+  ],
+  "answer": "Massage her fundus",
+  "rationale": "A boggy fundus and profuse lochia with clots indicate uterine atony. Massaging the fundus will help it to contract."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d4"
+  },
+  "level": 1,
+  "question": "Parents can facilitate the adjustment of their other children to a new baby by:",
+  "options": [
+    "Having the children choose or make a gift to give to the new baby upon its arrival home",
+    "Emphasizing activities that keep the new baby and other children together",
+    "Having the mother carry the new baby into the home so she can show the other children the new baby",
+    "Reducing stress on other children by limiting their involvement in the care of the new baby"
+  ],
+  "answer": "Having the children choose or make a gift to give to the new baby upon its arrival home",
+  "rationale": "Involving older children in welcoming the new baby can foster a positive adjustment and reduce feelings of jealousy or resentment."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d0"
+  },
+  "level": 1,
+  "question": "Perineal care is an important infection control measure. When evaluating a postpartum woman’s perineal care technique, the nurse would recognize the need for further instruction if the woman:",
+  "options": [
+    "Uses soap and warm water to wash the vulva and perineum",
+    "Washes from symphysis pubis back to episiotomy",
+    "Changes her perineal pad every 2 – 3 hours",
+    "Uses the peribottle to rinse upward into her vagina"
+  ],
+  "answer": "Uses the peribottle to rinse upward into her vagina",
+  "rationale": "Rinsing upward into the vagina with a peribottle can introduce bacteria and increase the risk of infection."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d2"
+  },
+  "level": 1,
+  "question": "When making a visit to the home of a postpartum woman one week after birth, the nurse should recognize that the woman would characteristically:",
+  "options": [
+    "Express a strong need to review events and her behavior during the process of labor and birth",
+    "Exhibit a reduced attention span, limiting readiness to learn",
+    "Vacillate between the desire to have her own nurturing needs met and the need to take charge of her own care and that of her newborn",
+    "Have reestablished her role as a spouse/partner"
+  ],
+  "answer": "Vacillate between the desire to have her own nurturing needs met and the need to take charge of her own care and that of her newborn",
+  "rationale": "This behavior characterizes the taking-hold stage, which typically occurs from a few days to several weeks after birth."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d3"
+  },
+  "level": 1,
+  "question": "Four hours after a difficult labor and birth, a primiparous woman refuses to feed her baby, stating that she is too tired and just wants to sleep. The nurse should:",
+  "options": [
+    "Tell the woman she can rest after she feeds her baby",
+    "Recognize this as a behavior of the taking-hold stage",
+    "Record the behavior as ineffective maternal-newborn attachment",
+    "Take the baby back to the nursery, reassuring the woman that her rest is a priority at this time"
+  ],
+  "answer": "Take the baby back to the nursery, reassuring the woman that her rest is a priority at this time",
+  "rationale": "During the taking-in stage, mothers are primarily focused on their own needs. It's important to support her rest and well-being while ensuring the baby's needs are met."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d1"
+  },
+  "level": 1,
+  "question": "Which measure would be least effective in preventing postpartum hemorrhage?",
+  "options": [
+    "Administer Methergine 0.2 mg every 6 hours for 4 doses as ordered",
+    "Encourage the woman to void every 2 hours",
+    "Massage the fundus every hour for the first 24 hours following birth",
+    "Teach the woman the importance of rest and nutrition to enhance healing"
+  ],
+  "answer": "Massage the fundus every hour for the first 24 hours following birth",
+  "rationale": "Massaging the fundus should only be done when it is boggy or soft to promote uterine contraction. Over-massaging a firm fundus can cause it to relax."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d5"
+  },
+  "level": 1,
+  "question": "A primiparous woman is in the taking-in stage of psychosocial recovery and adjustment following birth. The nurse, recognizing the needs of women during this stage, should:",
+  "options": [
+    "Foster an active role in the baby’s care",
+    "Provide time for the mother to reflect on the events of and her behavior during childbirth",
+    "Recognize the woman’s limited attention span by giving her written materials to read when she gets home rather than doing a teaching session now",
+    "Promote maternal independence by encouraging her to meet her own hygiene and comfort needs"
+  ],
+  "answer": "Provide time for the mother to reflect on the events of and her behavior during childbirth",
+  "rationale": "During the taking-in stage, mothers are focused on their own recovery and processing the birth experience. Providing time for reflection supports emotional adjustment."
+},
+{
+  "_id": {
+    "$oid": "667c34b075ef8155cb9113d6"
+  },
+  "level": 1,
+  "question": "All of the following are important in the immediate care of the premature neonate. Which nursing activity should have the greatest priority?",
+  "options": [
+    "Instillation of antibiotic in the eyes",
+    "Identification by bracelet and foot prints",
+    "Placement in a warm environment",
+    "Neurological assessment to determine gestational age"
+  ],
+  "answer": "Placement in a warm environment",
+  "rationale": "Maintaining thermal stability is crucial for premature neonates to prevent hypothermia and associated complications."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92946f"
+  },
+  "level": "2",
+  "question": "A nurse in a delivery room is assisting with the delivery of a newborn infant. After the delivery, the nurse prepares to prevent heat loss in the newborn resulting from evaporation by:",
+  "options": [
+    "Warming the crib pad",
+    "Turning on the overhead radiant warmer",
+    "Closing the doors to the room",
+    "Drying the infant in a warm blanket"
+  ],
+  "answer": "Drying the infant in a warm blanket",
+  "rationale": "Evaporation of moisture from a wet body dissipates heat along with the moisture. Keeping the newborn dry by drying the wet newborn infant will prevent hypothermia via evaporation."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929477"
+  },
+  "level": "2",
+  "question": "A nurse in a newborn nursery receives a phone call to prepare for the admission of a 43-week-gestation newborn with Apgar scores of 1 and 4. In planning for the admission of this infant, the nurse’s highest priority should be to:",
+  "options": [
+    "Connect the resuscitation bag to the oxygen outlet",
+    "Turn on the apnea and cardiorespiratory monitors",
+    "Set up the intravenous line with 5% dextrose in water",
+    "Set the radiant warmer control temperature at 36.5°C (97.6°F)"
+  ],
+  "answer": "Connect the resuscitation bag to the oxygen outlet",
+  "rationale": "The highest priority on admission to the nursery for a newborn with low Apgar scores is to ensure airway patency and adequate ventilation, which involves preparing respiratory resuscitation equipment."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92947f"
+  },
+  "level": "2",
+  "question": "The nurse is aware that a healthy newborn’s respirations are:",
+  "options": [
+    "Regular, abdominal, 40-50 per minute, deep",
+    "Irregular, abdominal, 30-60 per minute, shallow",
+    "Irregular, initiated by the chest wall, 30-60 per minute, deep",
+    "Regular, initiated by the chest wall, 40-60 per minute, shallow"
+  ],
+  "answer": "Irregular, abdominal, 30-60 per minute, shallow",
+  "rationale": "Normal newborn respirations are irregular, primarily abdominal, ranging from 30 to 60 breaths per minute, and often shallow in depth."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929480"
+  },
+  "level": "2",
+  "question": "To help limit the development of hyperbilirubinemia in the neonate, the plan of care should include:",
+  "options": [
+    "Monitoring for the passage of meconium each shift",
+    "Instituting phototherapy for 30 minutes every 6 hours",
+    "Substituting breastfeeding for formula during the 2nd day after birth",
+    "Supplementing breastfeeding with glucose water during the first 24 hours"
+  ],
+  "answer": "Monitoring for the passage of meconium each shift",
+  "rationale": "Hyperbilirubinemia in neonates can be limited by monitoring for the timely passage of meconium, which aids in the elimination of bilirubin through the gastrointestinal tract."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92947a"
+  },
+  "level": "2",
+  "question": "A baby is born precipitously in the ER. The nurse’s initial action should be to:",
+  "options": [
+    "Establish an airway for the baby",
+    "Ascertain the condition of the fundus",
+    "Quickly tie and cut the umbilical cord",
+    "Move mother and baby to the birthing unit"
+  ],
+  "answer": "Establish an airway for the baby",
+  "rationale": "For a precipitous birth, ensuring the baby’s airway is clear and promoting ventilation through positioning and stimulation are the initial priorities."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92947b"
+  },
+  "level": "2",
+  "question": "The primary critical observation for Apgar scoring is the:",
+  "options": [
+    "Heart rate",
+    "Respiratory rate",
+    "Presence of meconium",
+    "Evaluation of the Moro reflex"
+  ],
+  "answer": "Heart rate",
+  "rationale": "The heart rate is the most critical observation in Apgar scoring, as it reflects the infant’s immediate need for effective circulation and oxygenation."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92947c"
+  },
+  "level": "2",
+  "question": "When performing a newborn assessment, the nurse should measure the vital signs in the following sequence:",
+  "options": [
+    "Pulse, respirations, temperature",
+    "Temperature, pulse, respirations",
+    "Respirations, temperature, pulse",
+    "Respirations, pulse, temperature"
+  ],
+  "answer": "Respirations, pulse, temperature",
+  "rationale": "The correct sequence for measuring vital signs in a newborn assessment is respirations, pulse, and then temperature, minimizing disturbance to the infant."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929482"
+  },
+  "level": "2",
+  "question": "When newborns have been on formula for 36-48 hours, they should have a:",
+  "options": [
+    "Screening for PKU",
+    "Vitamin K injection",
+    "Test for necrotizing enterocolitis",
+    "Heel stick for blood glucose level"
+  ],
+  "answer": "Screening for PKU",
+  "rationale": "Newborns who have been on formula feeding for 36-48 hours should undergo screening for phenylketonuria (PKU), which is a routine test to detect metabolic disorders."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929471"
+  },
+  "level": "2",
+  "question": "A nurse in the newborn nursery is monitoring a preterm newborn infant for respiratory distress syndrome. Which assessment signs if noted in the newborn infant would alert the nurse to the possibility of this syndrome?",
+  "options": [
+    "Hypotension and Bradycardia",
+    "Tachypnea and retractions",
+    "Acrocyanosis and grunting",
+    "The presence of a barrel chest with grunting"
+  ],
+  "answer": "Tachypnea and retractions",
+  "rationale": "The infant with respiratory distress syndrome may present with signs of cyanosis, tachypnea or apnea, nasal flaring, chest wall retractions, or audible grunts."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929472"
+  },
+  "level": "2",
+  "question": "A nurse in a newborn nursery is performing an assessment of a newborn infant. The nurse is preparing to measure the head circumference of the infant. The nurse would most appropriately:",
+  "options": [
+    "Wrap the tape measure around the infant’s head and measure just above the eyebrows.",
+    "Place the tape measure under the infants head at the base of the skull and wrap around to the front just above the eyes",
+    "Place the tape measure under the infants head, wrap around the occiput, and measure just above the eyes",
+    "Place the tape measure at the back of the infant’s head, wrap around across the ears, and measure across the infant’s mouth."
+  ],
+  "answer": "Place the tape measure under the infants head, wrap around the occiput, and measure just above the eyes",
+  "rationale": "To measure the head circumference, the nurse should place the tape measure under the infant’s head, wrap the tape around the occiput, and measure just above the eyebrows so that the largest area of the occiput is included."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929476"
+  },
+  "level": "2",
+  "question": "A nurse prepares to administer a vitamin K injection to a newborn infant. The mother asks the nurse why her newborn infant needs the injection. The best response by the nurse would be:",
+  "options": [
+    "“Your infant needs vitamin K to develop immunity.”",
+    "“The vitamin K will protect your infant from being jaundiced.”",
+    "“Newborn infants are deficient in vitamin K, and this injection prevents your infant from abnormal bleeding.”",
+    "“Newborn infants have sterile bowels, and vitamin K promotes the growth of bacteria in the bowel.”"
+  ],
+  "answer": "“Newborn infants are deficient in vitamin K, and this injection prevents your infant from abnormal bleeding.”",
+  "rationale": "Vitamin K is necessary for the body to synthesize coagulation factors. Newborn infants are deficient in vitamin K because their bowel does not have the bacteria necessary for synthesizing fat-soluble vitamin K. The injection is administered to prevent abnormal bleeding."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929478"
+  },
+  "level": "2",
+  "question": "Vitamin K is prescribed for a neonate. A nurse prepares to administer the medication in which muscle site?",
+  "options": [
+    "Deltoid",
+    "Triceps",
+    "Vastus lateralis",
+    "Biceps"
+  ],
+  "answer": "Vastus lateralis",
+  "rationale": "The vastus lateralis muscle is a common site for intramuscular injections in infants due to its size and location."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929481"
+  },
+  "level": "2",
+  "question": "A newborn has small, whitish, pinpoint spots over the nose, which the nurse knows are caused by retained sebaceous secretions. When charting this observation, the nurse identifies it as:",
+  "options": [
+    "Milia",
+    "Lanugo",
+    "Whiteheads",
+    "Mongolian spots"
+  ],
+  "answer": "Milia",
+  "rationale": "Milia are small, whitish, pinpoint spots commonly seen over the nose of newborns, caused by retained sebaceous secretions."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929470"
+  },
+  "level": "2",
+  "question": "A nurse is assessing a newborn infant following circumcision and notes that the circumcised area is red with a small amount of bloody drainage. Which of the following nursing actions would be most appropriate?",
+  "options": [
+    "Document the findings",
+    "Contact the physician",
+    "Circle the amount of bloody drainage on the dressing and reassess in 30 minutes",
+    "Reinforce the dressing"
+  ],
+  "answer": "Document the findings",
+  "rationale": "The penis is normally red during the healing process. A yellow exudate may be noted in 24 hours, and this is a part of normal healing. The nurse would expect that the area would be red with a small amount of bloody drainage. If the bleeding is excessive, the nurse would apply gentle pressure with sterile gauze. If bleeding is not controlled, then the blood vessel may need to be ligated, and the nurse would contact the physician."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929473"
+  },
+  "level": "2",
+  "question": "A postpartum nurse is providing instructions to the mother of a newborn infant with hyperbilirubinemia who is being breastfed. The nurse provides which most appropriate instructions to the mother?",
+  "options": [
+    "Switch to bottle feeding the baby for 2 weeks",
+    "Stop the breast feedings and switch to bottle-feeding permanently",
+    "Feed the newborn infant less frequently",
+    "Continue to breast-feed every 2-4 hours"
+  ],
+  "answer": "Continue to breast-feed every 2-4 hours",
+  "rationale": "Breastfeeding should be initiated within 2 hours after birth and every 2-4 hours thereafter. The other options are not necessary."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929474"
+  },
+  "level": "2",
+  "question": "A nurse on the newborn nursery floor is caring for a neonate. On assessment, the infant is exhibiting signs of cyanosis, tachypnea, nasal flaring, and grunting. Respiratory distress syndrome is diagnosed, and the physician prescribes surfactant replacement therapy. The nurse would prepare to administer this therapy by:",
+  "options": [
+    "Subcutaneous injection",
+    "Intravenous injection",
+    "Instillation of the preparation into the lungs through an endotracheal tube",
+    "Intramuscular injection"
+  ],
+  "answer": "Instillation of the preparation into the lungs through an endotracheal tube",
+  "rationale": "The aim of therapy in RDS is to support the infant until the disease runs its course with the subsequent development of surfactant. The infant may benefit from surfactant replacement therapy, where an exogenous surfactant preparation is instilled into the lungs through an endotracheal tube."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929475"
+  },
+  "level": "2",
+  "question": "A nurse is assessing a newborn infant who was born to a mother who is addicted to drugs. Which of the following assessment findings would the nurse expect to note during the assessment of this newborn?",
+  "options": [
+    "Sleepiness",
+    "Cuddles when being held",
+    "Lethargy",
+    "Incessant crying"
+  ],
+  "answer": "Incessant crying",
+  "rationale": "A newborn infant born to a mother using drugs is often irritable. The infant may be easily overwhelmed by sensory stimulation, cry incessantly, and be difficult to console."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb929479"
+  },
+  "level": "2",
+  "question": "A nursing instructor asks a nursing student to describe the procedure for administering erythromycin ointment into the eyes of a neonate. The instructor determines that the student needs to research this procedure further if the student states:",
+  "options": [
+    "“I will cleanse the neonate’s eyes before instilling ointment.”",
+    "“I will flush the eyes after instilling the ointment.”",
+    "“I will instill the eye ointment into each of the neonate’s conjunctival sacs within one hour after birth.”",
+    "“Administration of the eye ointment may be delayed until an hour or so after birth so that eye contact and parent-infant attachment and bonding can occur.”"
+  ],
+  "answer": "“I will flush the eyes after instilling the ointment.”",
+  "rationale": "Eye prophylaxis with erythromycin ointment is administered to prevent ophthalmia neonatorum caused by Neisseria gonorrhoeae and Chlamydia trachomatis. The eyes should not be flushed after instilling the medication, as this may wash away the administered prophylaxis."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92947d"
+  },
+  "level": "2",
+  "question": "Within 3 minutes after birth, the normal heart rate of the infant may range between:",
+  "options": [
+    "100 and 180",
+    "130 and 170",
+    "120 and 160",
+    "100 and 130"
+  ],
+  "answer": "120 and 160",
+  "rationale": "The normal heart rate for a newborn within the first few minutes after birth typically ranges between 120 and 160 beats per minute."
+},
+{
+  "_id": {
+    "$oid": "667c364275ef8155cb92947e"
+  },
+  "level": "2",
+  "question": "The expected respiratory rate of a neonate within 3 minutes of birth may be as high as:",
+  "options": [
+    "50",
+    "60",
+    "80",
+    "100"
+  ],
+  "answer": "60",
+  "rationale": "The expected respiratory rate for a neonate within the first few minutes of birth may reach up to 60 breaths per minute."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a3"
+  },
+  "level": "2",
+  "question": "While assessing a 2-hour old neonate, the nurse observes the neonate to have acrocyanosis. Which of the following nursing actions should be performed initially?",
+  "options": [
+    "Activate the code blue or emergency system",
+    "Do nothing because acrocyanosis is normal in the neonate",
+    "Immediately take the newborn’s temperature according to hospital policy",
+    "Notify the physician of the need for a cardiac consult"
+  ],
+  "answer": "Do nothing because acrocyanosis is normal in the neonate",
+  "rationale": "Acrocyanosis, or bluish discoloration of the hands and feet in the neonate, is a normal finding and should not last more than 24 hours after birth."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363ab"
+  },
+  "level": "2",
+  "question": "The most common neonatal sepsis and meningitis infections seen within 24 hours after birth are caused by which organism?",
+  "options": [
+    "Candida albicans",
+    "Chlamydia trachomatis",
+    "Escherichia coli",
+    "Group B beta-hemolytic streptococci"
+  ],
+  "answer": "Group B beta-hemolytic streptococci",
+  "rationale": "Transmission of Group B beta-hemolytic streptococci to the fetus can cause respiratory distress and septic shock."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363af"
+  },
+  "level": "2",
+  "question": "Which condition or treatment best ensures lung maturity in an infant?",
+  "options": [
+    "Meconium in the amniotic fluid",
+    "Glucocorticoid treatment just before delivery",
+    "Lecithin to sphingomyelin ratio more than 2:1",
+    "Absence of phosphatidylglycerol in amniotic fluid"
+  ],
+  "answer": "Lecithin to sphingomyelin ratio more than 2:1",
+  "rationale": "A lecithin to sphingomyelin ratio greater than 2:1 in amniotic fluid indicates fetal lung maturity."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a2"
+  },
+  "level": "2",
+  "question": "Which action best explains the main role of surfactant in the neonate?",
+  "options": [
+    "Assists with ciliary body maturation in the upper airways",
+    "Helps maintain a rhythmic breathing pattern",
+    "Promotes clearing mucus from the respiratory tract",
+    "Helps the lungs remain expanded after the initiation of breathing"
+  ],
+  "answer": "Helps the lungs remain expanded after the initiation of breathing",
+  "rationale": "Surfactant works by reducing surface tension in the lung. This allows the lung to remain slightly expanded, decreasing the amount of work required for inspiration."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a6"
+  },
+  "level": "2",
+  "question": "A client has just given birth at 42 weeks’ gestation. When assessing the neonate, which physical finding is expected?",
+  "options": [
+    "A sleepy, lethargic baby",
+    "Lanugo covering the body",
+    "Desquamation of the epidermis",
+    "Vernix caseosa covering the body"
+  ],
+  "answer": "Desquamation of the epidermis",
+  "rationale": "Postdate fetuses lose the vernix caseosa, and the epidermis may become desquamated."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363ac"
+  },
+  "level": "2",
+  "question": "When attempting to interact with a neonate experiencing drug withdrawal, which behavior would indicate that the neonate is willing to interact?",
+  "options": [
+    "Gaze aversion",
+    "Hiccups",
+    "Quiet alert state",
+    "Yawning"
+  ],
+  "answer": "Quiet alert state",
+  "rationale": "When caring for a neonate experiencing drug withdrawal, the nurse should introduce stimuli one at a time when the neonate is in a quiet and alert state."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363b0"
+  },
+  "level": "2",
+  "question": "When performing nursing care for a neonate after a birth, which intervention has the highest nursing priority?",
+  "options": [
+    "Obtain a dextrostix",
+    "Give the initial bath",
+    "Give the vitamin K injection",
+    "Cover the neonate’s head with a cap"
+  ],
+  "answer": "Cover the neonate’s head with a cap",
+  "rationale": "Covering the neonate’s head with a cap helps prevent heat loss, a priority in neonatal care immediately after birth."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363b2"
+  },
+  "level": "2",
+  "question": "A woman delivers a 3.250 g neonate at 42 weeks’ gestation. Which physical finding is expected during an examination if this neonate?",
+  "options": [
+    "Abundant lanugo",
+    "Absence of sole creases",
+    "Breast bud of 1-2 mm in diameter",
+    "Leathery, cracked, and wrinkled skin"
+  ],
+  "answer": "Leathery, cracked, and wrinkled skin",
+  "rationale": "Post-term neonates often have leathery, cracked, and wrinkled skin."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363b3"
+  },
+  "level": "2",
+  "question": "A healthy term neonate born by C-section was admitted to the transitional nursery 30 minutes ago and placed under a radiant warmer. The neonate has an axillary temperature of 99.5°F, a respiratory rate of 80 breaths/minute, and a heel stick glucose value of 60 mg/dl. Which action should the nurse take?",
+  "options": [
+    "Wrap the neonate warmly and place her in an open crib",
+    "Administer an oral glucose feeding of 10% dextrose in water",
+    "Increase the temperature setting on the radiant warmer",
+    "Obtain an order for IV fluid administration"
+  ],
+  "answer": "Obtain an order for IV fluid administration",
+  "rationale": "The neonate’s condition, with an elevated respiratory rate and low glucose level, suggests potential respiratory distress requiring observation and IV fluid support."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a8"
+  },
+  "level": "2",
+  "question": "Neonates of mothers with diabetes are at risk for which complication following birth?",
+  "options": [
+    "Atelectasis",
+    "Microcephaly",
+    "Pneumothorax",
+    "Macrosomia"
+  ],
+  "answer": "Macrosomia",
+  "rationale": "Neonates of mothers with diabetes are at increased risk for macrosomia (excessive fetal growth)."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363aa"
+  },
+  "level": "2",
+  "question": "A neonate has been diagnosed with caput succedaneum. Which statement is correct about this condition?",
+  "options": [
+    "It usually resolves in 3-6 weeks",
+    "It doesn’t cross the cranial suture line",
+    "It’s a collection of blood between the skull and the periosteum",
+    "It involves swelling of tissue over the presenting part of the presenting head"
+  ],
+  "answer": "It involves swelling of tissue over the presenting part of the presenting head",
+  "rationale": "Caput succedaneum is swelling of tissue over the presenting part of the fetal scalp."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363b1"
+  },
+  "level": "2",
+  "question": "When performing an assessment on a neonate, which assessment finding is most suggestive of hypothermia?",
+  "options": [
+    "Bradycardia",
+    "Hyperglycemia",
+    "Metabolic alkalosis",
+    "Shivering"
+  ],
+  "answer": "Bradycardia",
+  "rationale": "Bradycardia is a common sign of hypothermia in neonates."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363b4"
+  },
+  "level": "2",
+  "question": "Which neonatal behavior is most commonly associated with fetal alcohol syndrome (FAS)?",
+  "options": [
+    "Hypoactivity",
+    "High birth weight",
+    "Poor wake and sleep patterns",
+    "High threshold of stimulation"
+  ],
+  "answer": "Poor wake and sleep patterns",
+  "rationale": "Fetal alcohol syndrome (FAS) can lead to altered wake and sleep patterns in neonates."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a1"
+  },
+  "level": "2",
+  "question": "The nurse decides on a teaching plan for a new mother and her infant. The plan should include:",
+  "options": [
+    "Discussing the matter with her in a non-threatening manner",
+    "Showing by example and explanation how to care for the infant",
+    "Setting up a schedule for teaching the mother how to care for her baby",
+    "Supplying the emotional support to the mother and encouraging her independence"
+  ],
+  "answer": "Showing by example and explanation how to care for the infant",
+  "rationale": "Teaching the mother by example is a non-threatening approach that allows her to proceed at her own pace."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a4"
+  },
+  "level": "2",
+  "question": "The nurse is aware that a neonate of a mother with diabetes is at risk for what complication?",
+  "options": [
+    "Anemia",
+    "Hypoglycemia",
+    "Nitrogen loss",
+    "Thrombosis"
+  ],
+  "answer": "Hypoglycemia",
+  "rationale": "Neonates of mothers with diabetes are at risk for hypoglycemia due to increased insulin levels."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a5"
+  },
+  "level": "2",
+  "question": "A client with group AB blood whose husband has group O has just given birth. The major sign of ABO blood incompatibility in the neonate is which complication or test result?",
+  "options": [
+    "Negative Coombs test",
+    "Bleeding from the nose and ear",
+    "Jaundice after the first 24 hours of life",
+    "Jaundice within the first 24 hours of life"
+  ],
+  "answer": "Jaundice within the first 24 hours of life",
+  "rationale": "The neonate with ABO blood incompatibility with its mother will have jaundice within the first 24 hours of life."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a7"
+  },
+  "level": "2",
+  "question": "After reviewing the client’s maternal history of magnesium sulfate during labor, which condition would the nurse anticipate as a potential problem in the neonate?",
+  "options": [
+    "Hypoglycemia",
+    "Jitteriness",
+    "Respiratory depression",
+    "Tachycardia"
+  ],
+  "answer": "Respiratory depression",
+  "rationale": "Magnesium sulfate crosses the placenta and can cause adverse neonatal effects such as respiratory depression."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363a9"
+  },
+  "level": "2",
+  "question": "By keeping the nursery temperature warm and wrapping the neonate in blankets, the nurse is preventing which type of heat loss?",
+  "options": [
+    "Conduction",
+    "Convection",
+    "Evaporation",
+    "Radiation"
+  ],
+  "answer": "Convection",
+  "rationale": "Convection heat loss is the flow of heat from the body surface to the cooler air."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363ad"
+  },
+  "level": "2",
+  "question": "When teaching umbilical cord care to a new mother, the nurse would include which information?",
+  "options": [
+    "Apply peroxide to the cord with each diaper change",
+    "Cover the cord with petroleum jelly after bathing",
+    "Keep the cord dry and open to air",
+    "Wash the cord with soap and water each day during a tub bath"
+  ],
+  "answer": "Keep the cord dry and open to air",
+  "rationale": "Keeping the cord dry and open to air helps reduce infection and promotes healing."
+},
+{
+  "_id": {
+    "$oid": "667c374e75ef8155cb9363ae"
+  },
+  "level": "2",
+  "question": "A mother of a term neonate asks what the thick, white, cheesy coating is on his skin. Which correctly describes this finding?",
+  "options": [
+    "Lanugo",
+    "Milia",
+    "Nevus flammeus",
+    "Vernix"
+  ],
+  "answer": "Vernix",
+  "rationale": "Vernix caseosa is a thick, white, cheesy coating on the skin of newborns."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe0"
+  },
+  "level": 99,
+  "question": "When teaching a client about contraception, which of the following would NURSE include as the MOST effective method for preventing sexually transmitted infections?",
+  "options": [
+    "Birth control pills",
+    "Intrauterine device (IUD)",
+    "Condoms",
+    "Diaphragm"
+  ],
+  "answer": "Condoms",
+  "rationale": "Condoms are the most effective method for preventing STIs among the options listed."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe4"
+  },
+  "level": 99,
+  "question": "Dilation of the cervix continuous from 4 to 7 cm, contractions become stronger, more frequent, longer and more painful is termed as:",
+  "options": [
+    "Latent phase",
+    "Active phase",
+    "Transition phase",
+    "Expulsion phase"
+  ],
+  "answer": "Active phase",
+  "rationale": "The active phase of labor is when dilation occurs from 4 to 7 cm and contractions become stronger, more frequent, and more painful."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe8"
+  },
+  "level": 99,
+  "question": "Which of the following kinds of spontaneous abortion occur complete expulsion of all products of conception:",
+  "options": [
+    "Missed abortion",
+    "Incomplete abortion",
+    "Threatened abortion",
+    "Complete abortion"
+  ],
+  "answer": "Complete abortion",
+  "rationale": "A complete abortion involves the expulsion of all products of conception."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fee"
+  },
+  "level": 99,
+  "question": "Epigastric pain, cerebral or visual disturbances, persistent vomiting, high blood pressure (160/100mmHg) are signs and symptoms of which of the following:",
+  "options": [
+    "Mild preeclampsia",
+    "Severe preeclampsia",
+    "Gestational hypertension",
+    "Chronic hypertension"
+  ],
+  "answer": "Severe preeclampsia",
+  "rationale": "These are signs and symptoms of severe preeclampsia."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe3"
+  },
+  "level": 99,
+  "question": "Immediately after external rotation, which of the following cardinal/mechanisms of normal labor occur?",
+  "options": [
+    "Descent",
+    "Flexion",
+    "Internal rotation",
+    "Expulsion"
+  ],
+  "answer": "Expulsion",
+  "rationale": "Expulsion occurs immediately after external rotation."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fea"
+  },
+  "level": 99,
+  "question": "Which of the following complications of pregnancy describes the implantation of products of conception in a site other than endometrium or outside the uterine cavity:",
+  "options": [
+    "Molar pregnancy",
+    "Blighted ovum",
+    "Intrauterine fetal demise",
+    "Ectopic pregnancy"
+  ],
+  "answer": "Ectopic pregnancy",
+  "rationale": "An ectopic pregnancy is when the embryo implants outside the uterine cavity."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19feb"
+  },
+  "level": 99,
+  "question": "The most common site for ectopic pregnancy is which of the following:",
+  "options": [
+    "Ovarian",
+    "Cervical",
+    "Tubal (distal portion)",
+    "Abdominal"
+  ],
+  "answer": "Tubal (distal portion)",
+  "rationale": "The most common site for an ectopic pregnancy is the fallopian tubes."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe1"
+  },
+  "level": 99,
+  "question": "Immediately prior to expulsion, which of the following cardinal movements/mechanism of normal labor occur?",
+  "options": [
+    "Engagement",
+    "Descent",
+    "Flexion",
+    "External rotation (restitution)"
+  ],
+  "answer": "External rotation (restitution)",
+  "rationale": "External rotation, also known as restitution, occurs immediately prior to expulsion."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe2"
+  },
+  "level": 99,
+  "question": "The cardinal movements/mechanism of labor is which of the following sequence?",
+  "options": [
+    "Descent, flexion, engagement, internal rotation, extension, external rotation, and expulsion",
+    "Engagement, descent, flexion, internal rotation, extension, external rotation, and expulsion",
+    "Engagement, descent, extension, flexion, internal rotation, external rotation, and expulsion",
+    "Engagement, descent, flexion, internal rotation, extension, external rotation, and expulsion"
+  ],
+  "answer": "Engagement, descent, flexion, internal rotation, extension, external rotation, and expulsion",
+  "rationale": "This is the correct sequence of the cardinal movements of labor."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe6"
+  },
+  "level": 99,
+  "question": "Mrs. Matriano just gave birth to a baby boy, Miss Kylie the NURSE on duty use the Apgar score one minute after to measure the newborn’s immediate adjustment to extrauterine life. The following noted appearance is completely pink, heart rate is 126, coughing and sneezing, with some flexion of extremities, and slow weak cry. Which of the following Apgar score and points status is correct:",
+  "options": [
+    "8 – with good condition",
+    "7 – with fair condition",
+    "9 – with excellent condition",
+    "6 – with satisfactory condition"
+  ],
+  "answer": "8 – with good condition",
+  "rationale": "Appearance: 2, Heart rate: 2, Reflex irritability: 2, Muscle tone: 1, Respiration: 1; Total: 8"
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe7"
+  },
+  "level": 99,
+  "question": "Trisha Mae, 17-year-old came to the clinic for a birth control method. She sat through the class that describes the methods available to her. After class, she asked Ms. Paulette the NURSE, “Anong paraan o method kaya ang pinakamabuti para sa akin?” The best response by Ms. Paulette is:",
+  "options": [
+    "Use birth control pills, it's very effective.",
+    "Use an intrauterine device (IUD), it lasts longer.",
+    "Before I can help you with that question, I need to know your sexual activity.",
+    "Use condoms, they are safe and prevent STIs."
+  ],
+  "answer": "Before I can help you with that question, I need to know your sexual activity.",
+  "rationale": "It's important to assess the client's sexual activity and preferences to provide appropriate contraceptive advice."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe9"
+  },
+  "level": 99,
+  "question": "All but one are the signs and symptoms of spontaneous abortion:",
+  "options": [
+    "Vaginal bleeding",
+    "Hypertension and edema",
+    "Cramping abdominal pain",
+    "Passage of tissue"
+  ],
+  "answer": "Hypertension and edema",
+  "rationale": "Hypertension and edema are not typical signs of spontaneous abortion."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fe5"
+  },
+  "level": 99,
+  "question": "Triangular in shape, normally closes by the end of age 2 months, junction of parietal bones and occipital bones is termed as:",
+  "options": [
+    "Anterior fontanelle",
+    "Posterior fontanelle",
+    "Sphenoidal fontanelle",
+    "Mastoid fontanelle"
+  ],
+  "answer": "Posterior fontanelle",
+  "rationale": "The posterior fontanelle is triangular in shape and typically closes by 2 months of age."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fec"
+  },
+  "level": 99,
+  "question": "All of the following are the common clinical manifestations of ectopic pregnancy, EXCEPT:",
+  "options": [
+    "Abdominal pain",
+    "Amenorrhea",
+    "Weight loss, excessive nausea and vomiting",
+    "Vaginal bleeding"
+  ],
+  "answer": "Weight loss, excessive nausea and vomiting",
+  "rationale": "Weight loss and excessive nausea and vomiting are not common manifestations of ectopic pregnancy."
+},
+{
+  "_id": {
+    "$oid": "667ecec175ef8155cbc19fed"
+  },
+  "level": 99,
+  "question": "Tonic and clonic convulsions, renal shutdown, coma. Oliguria and anuria are signs and symptoms of which of the following complications of pregnancy:",
+  "options": [
+    "Pre-eclampsia",
+    "Eclampsia",
+    "HELLP syndrome",
+    "Gestational hypertension"
+  ],
+  "answer": "Eclampsia",
+  "rationale": "Eclampsia involves convulsions and can lead to renal shutdown and coma."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d61"
+  },
+  "level": 99,
+  "question": "The sign and symptoms of abruptio placenta include which of the following:",
+  "options": [
+    "Mild cramping",
+    "Back pain",
+    "Nausea and vomiting",
+    "Sudden, intense, localized uterine pain"
+  ],
+  "answer": "Sudden, intense, localized uterine pain",
+  "rationale": "Abruptio placenta typically involves sudden, intense, localized uterine pain."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d5e"
+  },
+  "level": 99,
+  "question": "The therapeutic management for incompetent cervix is which of the following surgical procedure?",
+  "options": [
+    "Cerclage",
+    "Shirodkar operation/McDonald",
+    "Laparoscopy",
+    "Hysteroscopy"
+  ],
+  "answer": "Shirodkar operation/McDonald",
+  "rationale": "The Shirodkar or McDonald procedure is used to manage an incompetent cervix."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d65"
+  },
+  "level": 99,
+  "question": "Porro’s incision is necessary in the presence of following indications, EXCEPT:",
+  "options": [
+    "Severe uterine infection",
+    "PIH (Pregnancy-induced hypertension)",
+    "Uterine fibroids",
+    "Placenta previa"
+  ],
+  "answer": "PIH (Pregnancy-induced hypertension)",
+  "rationale": "Pregnancy-induced hypertension (PIH) is not an indication for Porro’s incision."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d66"
+  },
+  "level": 99,
+  "question": "Which of the following type of pelvis is the typical male pelvis?",
+  "options": [
+    "Gynecoid",
+    "Anthropoid",
+    "Android",
+    "Platypelloid"
+  ],
+  "answer": "Android",
+  "rationale": "The android pelvis is typically considered a male-type pelvis."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d6b"
+  },
+  "level": 99,
+  "question": "All but one are the causes and predisposing factors of uterine rupture:",
+  "options": [
+    "Previous cesarean section",
+    "Uterine overdistension",
+    "Preterm or SGA",
+    "Excessive use of oxytocin"
+  ],
+  "answer": "Preterm or SGA",
+  "rationale": "Preterm or small for gestational age (SGA) are not predisposing factors for uterine rupture."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d5f"
+  },
+  "level": 99,
+  "question": "Which of the following complications of pregnancy described severe nausea and vomiting, leading to electrolyte, metabolic, and nutritional imbalances in the absence of other medical problems and required hospitalization?",
+  "options": [
+    "Gestational diabetes",
+    "Preeclampsia",
+    "Hyperemesis gravidarum",
+    "Eclampsia"
+  ],
+  "answer": "Hyperemesis gravidarum",
+  "rationale": "Hyperemesis gravidarum involves severe nausea and vomiting requiring hospitalization."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d67"
+  },
+  "level": 99,
+  "question": "Which of the following intrapartum complications describes as the labor begins after 20 weeks’ gestation and before 38 weeks’ gestation:",
+  "options": [
+    "Post-term labor",
+    "Preterm labor",
+    "Labor dystocia",
+    "Prolonged labor"
+  ],
+  "answer": "Preterm labor",
+  "rationale": "Preterm labor occurs after 20 weeks but before 38 weeks of gestation."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d68"
+  },
+  "level": 99,
+  "question": "Ritodrine (Yutopar) IV is chosen as the beta-adrenergic agent to treat a woman’s preterm labor. The nurse can expect with common maternal side effect?",
+  "options": [
+    "Tachycardia",
+    "Hypotension",
+    "Bradycardia",
+    "Hyperglycemia"
+  ],
+  "answer": "Tachycardia",
+  "rationale": "Tachycardia is a common side effect of beta-adrenergic agents like ritodrine."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d6a"
+  },
+  "level": 99,
+  "question": "What is the NURSE first action immediately following rupture of the membranes of a woman in labor?",
+  "options": [
+    "Check the color of the amniotic fluid",
+    "Measure the mother's blood pressure",
+    "Assess the mother's pain level",
+    "Assess the fetal heart rate (FHR)"
+  ],
+  "answer": "Assess the fetal heart rate (FHR)",
+  "rationale": "The first action is to assess the FHR to ensure the fetus is not in distress."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d60"
+  },
+  "level": 99,
+  "question": "Described as premature separation of a normally implanted placenta after the 20th week of pregnancy, typically with severe hemorrhage is which of the following complications of pregnancy:",
+  "options": [
+    "Placenta previa",
+    "Abruptio placenta",
+    "Placenta accreta",
+    "Vasa previa"
+  ],
+  "answer": "Abruptio placenta",
+  "rationale": "Abruptio placenta involves the premature separation of the placenta from the uterine wall."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d62"
+  },
+  "level": 99,
+  "question": "The sign and symptom of placenta previa include which of the following:",
+  "options": [
+    "Dark red, painful vaginal bleeding",
+    "Bright red, painless vaginal bleeding",
+    "Abdominal pain without bleeding",
+    "Mild spotting with cramping"
+  ],
+  "answer": "Bright red, painless vaginal bleeding",
+  "rationale": "Placenta previa is characterized by bright red, painless vaginal bleeding."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d63"
+  },
+  "level": 99,
+  "question": "All but one are the causes and predisposing factors of placenta previa:",
+  "options": [
+    "Multiple pregnancies",
+    "Previous cesarean section",
+    "Uterine scarring",
+    "Short umbilical cord"
+  ],
+  "answer": "Short umbilical cord",
+  "rationale": "Short umbilical cord is not a predisposing factor for placenta previa."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d69"
+  },
+  "level": 99,
+  "question": "A woman in preterm labor is undergoing tocolysis and has shown signs/symptoms of toxicity. The nurse prepares and administers the antidote for ritodrine hydrochloride (Yutopar) toxicity which is:",
+  "options": [
+    "Calcium gluconate, 1 gram",
+    "Magnesium sulfate, 2 grams",
+    "Propranolol, 1 mg",
+    "Atenolol, 50 mg"
+  ],
+  "answer": "Propranolol, 1 mg",
+  "rationale": "Propranolol is used to treat beta-adrenergic toxicity."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d64"
+  },
+  "level": 99,
+  "question": "Type of cesarean incision and this is done horizontally in the lower uterine segment, also known as pfannenstiel’s incision:",
+  "options": [
+    "Classical incision",
+    "Vertical incision",
+    "High segment incision",
+    "Low segment incision"
+  ],
+  "answer": "Low segment incision",
+  "rationale": "The low segment is a horizontal incision made in the lower uterine segment."
+},
+{
+  "_id": {
+    "$oid": "667ecf4275ef8155cbc24d6c"
+  },
+  "level": 99,
+  "question": "According to Reva Rubin in her classic work on maternal behavior, in which phase would the new mother typically passive, dependent, and frequently review her labor and delivery experience?",
+  "options": [
+    "During the letting-go phase",
+    "During the taking-hold phase",
+    "During the becoming-a-mother phase",
+    "During the taking-in phase"
+  ],
+  "answer": "During the taking-in phase",
+  "rationale": "The taking-in phase is characterized by the mother being passive and dependent."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af53"
+  },
+  "level": 99,
+  "question": "Induction of labor is defined as the deliberate initiation of uterine contractions which is indicated for the following:",
+  "options": [
+    "PROM, history of rapid or silent labor, and prolapsed umbilical cord",
+    "Prolonged pregnancy, gestational diabetes, and maternal request",
+    "Fetal distress, multiple gestation, and breech presentation",
+    "Uterine rupture, previous cesarean section, and active herpes infection"
+  ],
+  "answer": "PROM, history of rapid or silent labor, and prolapsed umbilical cord",
+  "rationale": "PROM, history of rapid or silent labor, and prolapsed umbilical cord are indications for induction of labor."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af4a"
+  },
+  "level": 99,
+  "question": "The third stage of labor begins with delivery of the newborn and ends with:",
+  "options": [
+    "The expulsion of the placenta",
+    "The delivery of the placenta",
+    "The onset of postpartum recovery",
+    "The complete dilation of the cervix"
+  ],
+  "answer": "The delivery of the placenta",
+  "rationale": "The third stage of labor ends with the delivery of the placenta."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af55"
+  },
+  "level": 99,
+  "question": "The following are the purpose/rationale of episiotomy, EXCEPT:",
+  "options": [
+    "To prevent severe perineal lacerations",
+    "Shortens first stage labor",
+    "Facilitates delivery of the baby",
+    "Reduces the risk of fetal trauma"
+  ],
+  "answer": "Shortens first stage labor",
+  "rationale": "Episiotomy does not shorten the first stage of labor; it is performed during the second stage to enlarge the vaginal opening."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af58"
+  },
+  "level": 99,
+  "question": "Which of the following complications of pregnancy refer to the difficult, painful, prolonged labor due to mechanical factors?",
+  "options": [
+    "Dystocia",
+    "Preterm labor",
+    "Hyperemesis gravidarum",
+    "Preeclampsia"
+  ],
+  "answer": "Dystocia",
+  "rationale": "Dystocia refers to difficult or abnormal labor due to mechanical factors."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af4b"
+  },
+  "level": 99,
+  "question": "The second stage of labor begins with complete dilation of the cervix and ends with:",
+  "options": [
+    "The delivery of the placenta",
+    "The delivery of the newborn",
+    "The onset of postpartum recovery",
+    "The expulsion of the placenta"
+  ],
+  "answer": "The delivery of the newborn",
+  "rationale": "The second stage ends with the delivery of the newborn."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af4c"
+  },
+  "level": 99,
+  "question": "According to Sigmund Freud Psychosexual Theory the center of gratification is in the mouth;",
+  "options": [
+    "Anal phase",
+    "Phallic phase",
+    "Oral phase",
+    "Latency phase"
+  ],
+  "answer": "Oral phase",
+  "rationale": "The oral phase is when the center of gratification is in the mouth."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af51"
+  },
+  "level": 99,
+  "question": "In addition to changing the mother’s position, what other independent nursing intervention is indicated when the umbilical cord is prolapsed out of the vagina?",
+  "options": [
+    "Administer oxygen",
+    "Perform a vaginal examination",
+    "Keep the cord warm and moist with continuous application of warm sterile saline compress",
+    "Monitor maternal vital signs"
+  ],
+  "answer": "Keep the cord warm and moist with continuous application of warm sterile saline compress",
+  "rationale": "This helps prevent the cord from drying out and maintains blood flow."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af56"
+  },
+  "level": 99,
+  "question": "Mrs. Demi Moore asked Miss Phoebe the NURSE about her ovulation period. She said that her LMP was last May 15, 2024 (28 to 30 day cycle). What would be the ovulation period of Mrs. Demi Moore?",
+  "options": [
+    "May 27 to 29, 2024",
+    "May 22 to 24, 2024",
+    "May 31 to June 2, 2024",
+    "May 19 to 21, 2024"
+  ],
+  "answer": "May 27 to 29, 2024",
+  "rationale": "Ovulation typically occurs about 14 days before the next menstrual period, so for a 28-30 day cycle, ovulation would be around May 27-29, 2024."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af57"
+  },
+  "level": 99,
+  "question": "Mrs. Brooke Shields visited the maternity clinic and asked the NURSE on duty about her ovulation period, her LMP was started last month, May 25, 2024 (28 – 29 day cycle). What would be the ovulation period of Mrs. Shields?",
+  "options": [
+    "June 5 to 15, 2024",
+    "June 7 to 18, 2024",
+    "June 9 to 19, 2024",
+    "June 10 to 20, 2024"
+  ],
+  "answer": "June 7 to 18, 2024",
+  "rationale": "Ovulation for a 28-29 day cycle typically occurs around days 14-15 of the cycle, so the ovulation period would be around June 7-18, 2024."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af4f"
+  },
+  "level": 99,
+  "question": "During woman’s labor, the NURSE must be alert for life-threatening umbilical cord prolapsed, especially:",
+  "options": [
+    "When the fetal head is engaged",
+    "When the membranes are intact",
+    "When the presenting part is not engaged in the pelvic brim",
+    "When the contractions are regular"
+  ],
+  "answer": "When the presenting part is not engaged in the pelvic brim",
+  "rationale": "Umbilical cord prolapse is more likely when the presenting part is not engaged."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af4d"
+  },
+  "level": 99,
+  "question": "It is a diamond-shaped, normally closes age 12 to 18 months, junction of the two parietal bones and two fused frontal bones is termed as:",
+  "options": [
+    "Posterior fontanelle",
+    "Anterior fontanelle",
+    "Mastoid fontanelle",
+    "Sphenoid fontanelle"
+  ],
+  "answer": "Anterior fontanelle",
+  "rationale": "The anterior fontanelle is diamond-shaped and closes between 12 to 18 months."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af52"
+  },
+  "level": 99,
+  "question": "If a client experiences a ruptured ectopic pregnancy, an expected signs and symptoms would be:",
+  "options": [
+    "Gradual onset of pain in the upper abdomen",
+    "Sudden excruciating pain in the lower abdomen",
+    "Intermittent lower abdominal cramping",
+    "Painless vaginal bleeding"
+  ],
+  "answer": "Sudden excruciating pain in the lower abdomen",
+  "rationale": "Ruptured ectopic pregnancy typically presents with sudden, severe pain."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af4e"
+  },
+  "level": 99,
+  "question": "During which stage of labor does “crowning” occur?",
+  "options": [
+    "First stage",
+    "Second stage",
+    "Third stage",
+    "Fourth stage"
+  ],
+  "answer": "Second stage",
+  "rationale": "Crowning occurs during the second stage of labor."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af50"
+  },
+  "level": 99,
+  "question": "All but one are the best position for the patient suffering from prolapsed of umbilical cord to reduce pressure on cord:",
+  "options": [
+    "Knee-chest position",
+    "Trendelenburg position",
+    "Modified Sims position",
+    "Dorsal recumbent position"
+  ],
+  "answer": "Dorsal recumbent position",
+  "rationale": "The dorsal recumbent position is not recommended for umbilical cord prolapse."
+},
+{
+  "_id": {
+    "$oid": "667ecfc075ef8155cbc2af54"
+  },
+  "level": 99,
+  "question": "All but one are criteria for induction of labor:",
+  "options": [
+    "Post-term pregnancy",
+    "With a history of pregnancy-induced hypertension (Eclampsia)",
+    "Premature rupture of membranes",
+    "Chorioamnionitis"
+  ],
+  "answer": "With a history of pregnancy-induced hypertension (Eclampsia)",
+  "rationale": "A history of eclampsia is not a criterion for induction of labor; it is a complication that requires careful management."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390af"
+  },
+  "level": 99,
+  "question": "Which of the following factors is the underlying cause of dystocia?",
+  "options": [
+    "Hormonal",
+    "Mechanical",
+    "Genetic",
+    "Infectious"
+  ],
+  "answer": "Mechanical",
+  "rationale": "Mechanical factors, such as fetal malposition or pelvic shape, are common causes of dystocia."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b0"
+  },
+  "level": 99,
+  "question": "Homan’s sign is pain elicited by flexion of foot with knee extended is a common clinical manifestation of which of the following:",
+  "options": [
+    "Preeclampsia",
+    "Eclampsia",
+    "Thrombophlebitis",
+    "Gestational diabetes"
+  ],
+  "answer": "Thrombophlebitis",
+  "rationale": "Homan's sign is used to check for thrombophlebitis, which is inflammation of a vein with a clot."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b2"
+  },
+  "level": 99,
+  "question": "Aling Cora has just given birth to a stillborn with congenital deformities. She knows this but says, 'Gusto kong Makita ang baby ko please'. What is the NURSE’s best approach?",
+  "options": [
+    "'I think it would be better to wait for a while.'",
+    "'It might be too upsetting for you to see the baby now.'",
+    "'Let's clean the baby first, then you can see.'",
+    "'Let's talk about it first. Tell me Aling Cora what you expect with your baby?'"
+  ],
+  "answer": "'Let's talk about it first. Tell me Aling Cora what you expect with your baby?'",
+  "rationale": "It is important to have a discussion about her expectations and feelings before bringing the baby to her."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b7"
+  },
+  "level": 99,
+  "question": "In the Delivery Room (DR) a client has just delivered a healthy 7-pound baby boy. The physician instructs Mr. Michael Reyes the NURSE on duty to suction the baby. The procedure the nurse would use is to:",
+  "options": [
+    "Suction the nose first",
+    "Suction the mouth first",
+    "Suction both simultaneously",
+    "Suction the ears first"
+  ],
+  "answer": "Suction the mouth first",
+  "rationale": "The mouth is suctioned before the nose to prevent aspiration of fluids."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390bb"
+  },
+  "level": 99,
+  "question": "On a first visit, a client asks Mr. Red the NURSE on duty, 'Totoo ba na e-eksaminin (internal examination) ako ni doctor ngayon?' The nurse should respond:",
+  "options": [
+    "'No. An internal examination is not necessary today.'",
+    "'It depends on your symptoms.'",
+    "'Yes. An internal examination is done to all mothers, but it is only slightly uncomfortable.'",
+    "'I'm not sure. Let's ask the doctor.'"
+  ],
+  "answer": "'Yes. An internal examination is done to all mothers, but it is only slightly uncomfortable.'",
+  "rationale": "Providing clear and honest information about the procedure can help alleviate anxiety."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390be"
+  },
+  "level": 99,
+  "question": "During delivery Dr. Suarez performs an episiotomy. Miss Aquino the NURSE on duty reminds the client that this is most commonly done to:",
+  "options": [
+    "Shorten the labor process",
+    "Reduce pain during delivery",
+    "Prevent lacerations during birth",
+    "Facilitate instrument-assisted delivery"
+  ],
+  "answer": "Prevent lacerations during birth",
+  "rationale": "An episiotomy is performed to prevent severe perineal lacerations during delivery."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390bf"
+  },
+  "level": 99,
+  "question": "During the postpartum period, Rubio the NURSE on duty examines the client and identifies the presence of lochia serosa and feels the fundus four fingerbreadths below the umbilicus. This indicates that the time elapsed is:",
+  "options": [
+    "1 to 2 days postpartum",
+    "4 to 5 days postpartum",
+    "7 to 8 days postpartum",
+    "10 to 12 days postpartum"
+  ],
+  "answer": "4 to 5 days postpartum",
+  "rationale": "Lochia serosa typically appears 4 to 10 days postpartum, and the fundus is usually located around this level 4 to 5 days after delivery."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390c1"
+  },
+  "level": 99,
+  "question": "When performing a newborn assessment, the NURSE should measure the vital signs in the following sequence:",
+  "options": [
+    "Pulse, respirations, temperature",
+    "Temperature, pulse, respirations",
+    "Respirations, pulse, temperature",
+    "Pulse, temperature, respirations"
+  ],
+  "answer": "Respirations, pulse, temperature",
+  "rationale": "It is important to assess respirations first when the newborn is calm, followed by pulse and then temperature."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b1"
+  },
+  "level": 99,
+  "question": "Which of the following is the primary predisposing factor related to mastitis?",
+  "options": [
+    "Poor maternal nutrition",
+    "Improper latch during breastfeeding",
+    "Breast injury caused by over distention, stasis, abscess formation in the glandular tissue and cracking of the nipples",
+    "Frequent breastfeeding"
+  ],
+  "answer": "Breast injury caused by over distention, stasis, abscess formation in the glandular tissue and cracking of the nipples",
+  "rationale": "These factors, including cracked nipples and milk stasis, are primary predisposing factors for mastitis."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b3"
+  },
+  "level": 99,
+  "question": "The NURSE understanding the action of Hydralazine is:",
+  "options": [
+    "High blood pressure",
+    "Low blood pressure",
+    "Increased heart rate",
+    "Decreased heart rate"
+  ],
+  "answer": "Low blood pressure",
+  "rationale": "Hydralazine is an antihypertensive medication used to lower blood pressure."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b6"
+  },
+  "level": 99,
+  "question": "Instructing the client about her nutritional needs during pregnancy, Miss Santos the NURSE on duty tells her that she will have an increased need for:",
+  "options": [
+    "Calcium",
+    "Vitamin C",
+    "Protein",
+    "Iron"
+  ],
+  "answer": "Iron",
+  "rationale": "Iron needs increase during pregnancy to support the increased blood volume and fetal development."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b8"
+  },
+  "level": 99,
+  "question": "A newly pregnant client who is a little overweight asks the NURSE how much weight she should gain over the 9 months. The most appropriate answer by the nurse is:",
+  "options": [
+    "'A gain of about 15-20 pounds is best for mother and baby'",
+    "'A gain of about 30-40 pounds is best for mother and baby'",
+    "'A gain of about 24-30 pounds is best for mother and baby'",
+    "'A gain of about 10-15 pounds is best for mother and baby'"
+  ],
+  "answer": "'A gain of about 24-30 pounds is best for mother and baby'",
+  "rationale": "A healthy weight gain for an overweight pregnant woman is generally recommended to be around 15-25 pounds, but the typical recommendation for a normal pregnancy is 24-30 pounds."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390c0"
+  },
+  "level": 99,
+  "question": "The primary clinical observation for APGAR scoring is the:",
+  "options": [
+    "Heart rate",
+    "Respiratory effort",
+    "Muscle tone",
+    "Color"
+  ],
+  "answer": "Heart rate",
+  "rationale": "Heart rate is the most critical parameter in the APGAR score."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b5"
+  },
+  "level": 99,
+  "question": "Manang Pacing is in her 36th week of pregnancy is admitted to the maternity unit in an effort to control the further development of eclampsia. She is assigned to a private room. The best rationale for this room assignment is:",
+  "options": [
+    "To ensure privacy",
+    "To allow for frequent monitoring",
+    "A quiet, darkened room is important to reduce external stimuli",
+    "To facilitate family visits"
+  ],
+  "answer": "A quiet, darkened room is important to reduce external stimuli",
+  "rationale": "Reducing external stimuli is crucial to prevent seizures in a client with eclampsia."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390ba"
+  },
+  "level": 99,
+  "question": "Pituitary hormone that stimulates the secretion of milk from the mammary glands is:",
+  "options": [
+    "Prolactin",
+    "Oxytocin",
+    "Estrogen",
+    "Progesterone"
+  ],
+  "answer": "Prolactin",
+  "rationale": "Prolactin is the hormone responsible for stimulating milk production."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390bc"
+  },
+  "level": 99,
+  "question": "When attending the pre-natal clinic, a newly pregnant client, having her first child, express concern about her “dark nipples” and a “dark line” from her navel to the pubis. The MIDWIFE explains that these adaptations are due to increased level of:",
+  "options": [
+    "Progesterone",
+    "Estrogen",
+    "Melanin",
+    "HCG"
+  ],
+  "answer": "Melanin",
+  "rationale": "The darkening of the nipples and the linea nigra are due to increased melanin production, influenced by hormonal changes during pregnancy."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390bd"
+  },
+  "level": 99,
+  "question": "After doing the Leopold’s maneuvers on a pregnant client, the NURSE determines that the fetus is in cephalic presentation, back is palpated on the left side. To best auscultate the fetal heart tones (FHT), the Doppler is placed on the:",
+  "options": [
+    "Right lower quadrant",
+    "Left lower quadrant",
+    "Right upper quadrant",
+    "Left upper quadrant"
+  ],
+  "answer": "Left lower quadrant",
+  "rationale": "For a cephalic presentation with the fetal back on the left side, the FHT is best heard in the left lower quadrant."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b4"
+  },
+  "level": 99,
+  "question": "Aling Lucing, primagravida, 32-year-old, delivered an 8 lb. 5 oz. baby girl by cesarian section. Which of the following actions would NOT be included in the client’s immediate postoperative care?",
+  "options": [
+    "Monitoring vital signs",
+    "Assessing the incision site",
+    "Encouraging early ambulation",
+    "Offering oral fluids q15min for 2 to 3 hours"
+  ],
+  "answer": "Offering oral fluids q15min for 2 to 3 hours",
+  "rationale": "Oral fluids are typically not given immediately after surgery until bowel sounds return and the patient is fully awake and can tolerate fluids."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390b9"
+  },
+  "level": 99,
+  "question": "The term dizygotic refers to twins who have:",
+  "options": [
+    "Developed from one ovum and one sperm",
+    "Developed from one ovum and two sperms",
+    "Developed from two ova and one sperm",
+    "Developed from two ova and two sperms"
+  ],
+  "answer": "Developed from two ova and two sperms",
+  "rationale": "Dizygotic twins, or fraternal twins, develop from two separate eggs fertilized by two separate sperm."
+},
+{
+  "_id": {
+    "$oid": "667ed0eb75ef8155cbc390c2"
+  },
+  "level": 99,
+  "question": "The fetus is most likely to be structurally damaged by the pregnant woman’s ingestion of drugs during the:",
+  "options": [
+    "First trimester",
+    "Second trimester",
+    "Third trimester",
+    "Perinatal period"
+  ],
+  "answer": "First trimester",
+  "rationale": "The first trimester is when organogenesis occurs, making the fetus most vulnerable to structural damage from teratogens."
+}]
