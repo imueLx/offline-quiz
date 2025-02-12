@@ -1,0 +1,732 @@
+[
+  {
+    "level": "1",
+    "question": "When teaching a client about contraception, which of the following would NURSE include as the MOST effective method for preventing sexually transmitted infections?",
+    "options": [
+      "Spermicides",
+      "intrauterine device (IUD)",
+      "condoms",
+      "cervical cap"
+    ],
+    "answer": "condoms",
+    "id": "667af80975ef8155cb971491"
+  },
+  {
+    "level": "1",
+    "question": "Dilation of the cervix continuous from 4 to 7 cm, contractions become stronger, more frequent, longer and more painful is termed as:",
+    "options": [
+      "Latent phase",
+      "Active phase",
+      "Transition phase",
+      "Dilation phase"
+    ],
+    "answer": "Active phase",
+    "id": "667af80975ef8155cb971495"
+  },
+  {
+    "level": "1",
+    "question": "The cardinal movements/mechanism of labor is which of the following sequence?",
+    "options": [
+      "engagement, descent, flexion, external rotation, extension, internal rotation and expulsion",
+      "engagement, descent, flexion, internal rotation, extension, external rotation and expulsion",
+      "engagement, internal rotation, flexion, descent, extension, external rotation and expulsion",
+      "engagement, flexion, descent, internal rotation, extension, external rotation and expulsion"
+    ],
+    "answer": "engagement, descent, flexion, internal rotation, extension, external rotation and expulsion",
+    "id": "667af80975ef8155cb971493"
+  },
+  {
+    "level": "1",
+    "question": "Which of the following kinds of spontaneous abortion occur complete expulsion of all products of conception:",
+    "options": [
+      "Missed abortion",
+      "Incomplete abortion",
+      "Habitual abortion",
+      "Complete abortion"
+    ],
+    "answer": "Complete abortion",
+    "id": "667af80975ef8155cb971499"
+  },
+  {
+    "level": "2",
+    "question": "Porro\u2019s incision is necessary in the presence of following indications, EXCEPT:",
+    "options": [
+      "Cancer of uterus",
+      "PIH",
+      "Classic cesarean incision",
+      "Placenta Accreta"
+    ],
+    "answer": "Classic cesarean incision",
+    "id": "667af80975ef8155cb9714a7"
+  },
+  {
+    "level": "2",
+    "question": "Which of the following type of pelvis is the typical male pelvis?",
+    "options": ["Gynecoid", "Android", "Platypelloid", "Anthropoid"],
+    "answer": "Android",
+    "id": "667af80975ef8155cb9714a8"
+  },
+  {
+    "level": "2",
+    "question": "Ritodrine (Yutopar) IV is chosen as the beta-adrenergic agent to treat a woman\u2019s preterm labor. The nurse can expect with common maternal side effect?",
+    "options": [
+      "Tachycardia",
+      "Hypoglycemia",
+      "Nausea and vomiting",
+      "Blurred vision"
+    ],
+    "answer": "Tachycardia",
+    "id": "667af80975ef8155cb9714aa"
+  },
+  {
+    "level": "1",
+    "question": "Immediately prior to expulsion, which of the following cardinal movements/mechanism of normal labor occur?",
+    "options": [
+      "Descent",
+      "Internal rotation",
+      "Extension",
+      "external rotation (restitution)"
+    ],
+    "answer": "Extension",
+    "id": "667af80975ef8155cb971492"
+  },
+  {
+    "level": "1",
+    "question": "Immediately after external rotation, which of the following cardinal/mechanisms of normal labor occur?",
+    "options": ["Internal rotation", "Extension", "flexion", "expulsion"],
+    "answer": "expulsion",
+    "id": "667af80975ef8155cb971494"
+  },
+  {
+    "level": "1",
+    "question": "Triangular in shaped, normally closes by the end of age 2 months, junction of parietal bones and occipital bones is termed as:",
+    "options": [
+      "Anterior fontanelle",
+      "Posterior fontanelle",
+      "Sagittal suture",
+      "Coronal suture"
+    ],
+    "answer": "Posterior fontanelle",
+    "id": "667af80975ef8155cb971496"
+  },
+  {
+    "level": "1",
+    "question": "Which of the following complications of pregnancy describes the implantation of products of conception in a site other than endometrium or outside the uterine cavity:",
+    "options": [
+      "Precipitate labor",
+      "Placenta previa",
+      "Gestational Trophopblastic Disease",
+      "Ectopic pregnancy"
+    ],
+    "answer": "Ectopic pregnancy",
+    "id": "667af80975ef8155cb97149b"
+  },
+  {
+    "level": "1",
+    "question": "The most common site for ectopic pregnancy is which of the following:",
+    "options": [
+      "Ovarian",
+      "Abdominal (intestine)",
+      "Tubal (distal portion)",
+      "Cervical"
+    ],
+    "answer": "Tubal (distal portion)",
+    "id": "667af80975ef8155cb97149c"
+  },
+  {
+    "level": "1",
+    "question": "All of the following are the common clinical manifestations of ectopic pregnancy, EXCEPT:",
+    "options": [
+      "vaginal bleeding",
+      "sharp abdominal pain referred to shoulder pain",
+      "weight loss, excessive nausea and vomiting",
+      "adnexal mass, tenderness"
+    ],
+    "answer": "weight loss, excessive nausea and vomiting",
+    "id": "667af80975ef8155cb97149d"
+  },
+  {
+    "level": "1",
+    "question": "Tonic and clonic convulsions, renal shutdown, coma. Oliguria and anuria are signs and symptoms of which of the following complications of pregnancy:",
+    "options": [
+      "Hyperemesis gravidarum",
+      "Eclampsia",
+      "Ectopic pregnancy",
+      "Prolapsed umbilical cord"
+    ],
+    "answer": "Eclampsia",
+    "id": "667af80975ef8155cb97149e"
+  },
+  {
+    "level": "2",
+    "question": "Which of the following complications of pregnancy described severe nausea and vomiting, leading to electrolyte, metabolic, and nutritional imbalances in the absence of other medical problems and required hospitalization:",
+    "options": [
+      "Pregnancy induced hypertension",
+      "Incompetent cervix",
+      "Hyperemesis gravidarum",
+      "Abruptio placenta"
+    ],
+    "answer": "Hyperemesis gravidarum",
+    "id": "667af80975ef8155cb9714a1"
+  },
+  {
+    "level": "2",
+    "question": "The sign and symptom of placenta previa include which of the following:",
+    "options": [
+      "FHR present and absent",
+      "Bright red, painless vaginal bleeding",
+      "Uterine outline possibly enlarged",
+      "Concealed or external dark red discharge"
+    ],
+    "answer": "Bright red, painless vaginal bleeding",
+    "id": "667af80975ef8155cb9714a4"
+  },
+  {
+    "level": "2",
+    "question": "According to Reva Rubin in her classic work on maternal behavior, in which phase would the new mother typically passive, dependent, and frequently review her labor and delivery experience?",
+    "options": [
+      "During postpartum depression",
+      "During the letting-go phase",
+      "During the taking-hold phase",
+      "During the taking-in phase"
+    ],
+    "answer": "During the taking-in phase",
+    "id": "667af80975ef8155cb9714ae"
+  },
+  {
+    "level": "1",
+    "question": "Trisha Mae, 17-year-old came to the clinic for a birth control method. She sat through the class that describes the methods available to her. After class, she asked Ms. Paulette the NURSE, \u201cAnong paraan o method kaya ang pinakamabuti para sa akin?\u201d The best response by Ms. Paulette is:",
+    "options": [
+      "You are so young Trisha, are you sure you are ready for the responsibilities of a sexual relationship?",
+      "Because of your age, we need your parents\u2019 consent before you can be examined and then we\u2019ll talk",
+      "Before I can help you with that \"question\", I need to know your sexual activity.",
+      "I cannot advice you Trisha because you are too young to be interested with that kind of methods."
+    ],
+    "answer": "Before I can help you with that \"question\", I need to know your sexual activity.",
+    "id": "667af80975ef8155cb971498"
+  },
+  {
+    "level": "2",
+    "question": "The therapeutic management for incompetent cervix is which of the following surgical procedure?",
+    "options": [
+      "Dilation and Curretage",
+      "Shirodkar operation/Mc Donald",
+      "Kleihauer-Betke test",
+      "Surgical removal repair with Laparotomy"
+    ],
+    "answer": "Shirodkar operation/Mc Donald",
+    "id": "667af80975ef8155cb9714a0"
+  },
+  {
+    "level": "2",
+    "question": "The sign and symptoms of abruptio placenta include which of the following:",
+    "options": [
+      "Painless vaginal discharge",
+      "Soft nontender abdomen",
+      "FHR stable and within normal limits",
+      "Sudden, intense, localized uterine pain"
+    ],
+    "answer": "Sudden, intense, localized uterine pain",
+    "id": "667af80975ef8155cb9714a3"
+  },
+  {
+    "level": "2",
+    "question": "All but one are the causes and predisposing factors of placenta previa:",
+    "options": [
+      "Uterine incisions",
+      "Multiparity",
+      "Previous cesarean section",
+      "Short umbilical cord"
+    ],
+    "answer": "Short umbilical cord",
+    "id": "667af80975ef8155cb9714a5"
+  },
+  {
+    "level": "2",
+    "question": "Type of cesarean incision and this is done horizontally in the lower uterine segment, also known as pfannentiel\u2019s incision:",
+    "options": [
+      "Porro\u2019s",
+      "Classic cesarean incision",
+      "Abdominal incision",
+      "Low segment incision"
+    ],
+    "answer": "Low segment incision",
+    "id": "667af80975ef8155cb9714a6"
+  },
+  {
+    "level": "2",
+    "question": "Which of the following intrapartum complications describes as the labor begins after 20 weeks\u2019 gestation and before 38 weeks\u2019 gestation:",
+    "options": [
+      "Postpartum hemorrhage",
+      "Preterm labor",
+      "Cesarian delivery",
+      "Prolapsed cord"
+    ],
+    "answer": "Preterm labor",
+    "id": "667af80975ef8155cb9714a9"
+  },
+  {
+    "level": "2",
+    "question": "What is the NURSE first action immediately following rupture of the membranes of a woman in labor?",
+    "options": [
+      "Look for the presence of the umbilical cord at the vaginal orifice",
+      "Monitor vital signs",
+      "Note the color and consistency of the amniotic fluid",
+      "Assess the fetal heart rate (FHR)"
+    ],
+    "answer": "Assess the fetal heart rate (FHR)",
+    "id": "667af80975ef8155cb9714ac"
+  },
+  {
+    "level": "2",
+    "question": "All but one are the causes and predisposing factors of uterine rupture:",
+    "options": [
+      "Tetanic contraction",
+      "Old scars",
+      "Preterm or SGA",
+      "Malapplication of forceps"
+    ],
+    "answer": "Preterm or SGA",
+    "id": "667af80975ef8155cb9714ad"
+  },
+  {
+    "level": "1",
+    "question": "Mrs. Matriano just gave birth to a baby boy, Miss Kylie the NURSE on duty use the Apgar score one minute after to measure the newborn\u2019s immediate adjustment to extrauterine life. The following noted appearance is completely pink, heart rate is 126, coughing and sneezing, with some flexion of extremities, and slow weak cry. Which of the following Apgar score and points status is correct:",
+    "options": [
+      "8 \u2013 with good condition",
+      "7 \u2013 with good condition",
+      "6 \u2013 mild",
+      "4 \u2013 monitoring"
+    ],
+    "answer": "8 \u2013 with good condition",
+    "id": "667af80975ef8155cb971497"
+  },
+  {
+    "level": "1",
+    "question": "All but one are the signs and symptoms of spontaneous abortion:",
+    "options": [
+      "vaginal bleeding \u2013 spotting",
+      "hypertension and edema",
+      "cramping in the lower abdomen",
+      "fever and malaise"
+    ],
+    "answer": "hypertension and edema",
+    "id": "667af80975ef8155cb97149a"
+  },
+  {
+    "level": "1",
+    "question": "Epigastric pain, cerebral or visual disturbances, persistent vomiting, high blood pressure (160/100mmHg) are signs and symptoms of which of the following:",
+    "options": [
+      "Gestational Trophoblastic Disease",
+      "Severe Preeclampsia",
+      "Thrombophlebitis",
+      "Spontaneous abortion"
+    ],
+    "answer": "Severe Preeclampsia",
+    "id": "667af80975ef8155cb97149f"
+  },
+  {
+    "level": "2",
+    "question": "Described as premature separation of a normally implanted placenta after the 20th week of pregnancy, typically with severe hemorrhage is which of the following complications of pregnancy:",
+    "options": [
+      "Placenta previa",
+      "Incompetent cervix",
+      "Abruptio placenta",
+      "Postpartum hemorrhage"
+    ],
+    "answer": "Abruptio placenta",
+    "id": "667af80975ef8155cb9714a2"
+  },
+  {
+    "level": "2",
+    "question": "A woman in preterm labor is undergoing tocolysis and has shown signs/symptoms of toxicity. The nurse prepares and administers the antidote for ritodrine hydrochloride (Yutopar) toxicity which is:",
+    "options": [
+      "Calcium gloconate, 10 mg",
+      "Terbutaline, 10 mg",
+      "Propanol, 1 mg",
+      "Naloxone hydrochloride"
+    ],
+    "answer": "Propanol, 1 mg",
+    "id": "667af80975ef8155cb9714ab"
+  },
+  {
+    "level": "3",
+    "question": "According to Sigmund Freud Psychosexual Theory the center of gratification is in the mouth;",
+    "options": ["Anal phase", "Phallic phase", "Oral phase", "Latency phase"],
+    "answer": "Oral phase",
+    "id": "667c2ad975ef8155cb893103"
+  },
+  {
+    "level": "3",
+    "question": "The third stage of labor begins with delivery of the newborn and ends with:",
+    "options": [
+      "the expulsion of the umbilical cord",
+      "the delivery of the placenta",
+      "the delivery of the newborn",
+      "the cervix is completely effaced & dilated"
+    ],
+    "answer": "the delivery of the placenta",
+    "id": "667c2ad975ef8155cb893101"
+  },
+  {
+    "level": "3",
+    "question": "The second stage of labor begins with complete dilation of the cervix and ends with:",
+    "options": [
+      "the delivery of the placenta",
+      "the delivery of the newborn",
+      "the expulsion of the umbilical cord",
+      "the cervix is completely effaced & dilated"
+    ],
+    "answer": "the delivery of the newborn",
+    "id": "667c2ad975ef8155cb893102"
+  },
+  {
+    "level": "3",
+    "question": "In addition to changing the mother\u2019s position, what other independent nursing intervention is indicated when the umbilical cord is prolapsed out of the vagina?",
+    "options": [
+      "Wash the cord immediately with warm antiseptic solution and replace it into the vagina",
+      "Cover the cord with a wet sterile sponge",
+      "Keep the cord warm and moist with continuous application of warm sterile saline compress",
+      "Apply clamp to the exposed cord and cover with sterile water"
+    ],
+    "answer": "Keep the cord warm and moist with continuous application of warm sterile saline compress",
+    "id": "667c2ad975ef8155cb893108"
+  },
+  {
+    "level": "3",
+    "question": "During which stage of labor does \u201ccrowning\u201d occur?",
+    "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
+    "answer": "Second stage",
+    "id": "667c2ad975ef8155cb893105"
+  },
+  {
+    "level": "3",
+    "question": "All but one are the best position for the patient suffering from prolapsed of umbilical cord to reduce pressure on cord:",
+    "options": [
+      "Dorsal recumbent position",
+      "Knee to chest position",
+      "Modified Trendelenburg\u2019s position",
+      "Lateral modified Sim\u2019s position"
+    ],
+    "answer": "Dorsal recumbent position",
+    "id": "667c2ad975ef8155cb893107"
+  },
+  {
+    "level": "3",
+    "question": "If a client experiences a ruptured ectopic pregnancy, an expected signs and symptoms would be:",
+    "options": [
+      "Sudden hypertension",
+      "Sudden excruciating pain in the lower abdomen",
+      "Extensive external bleeding",
+      "Painless vaginal discharge"
+    ],
+    "answer": "Sudden excruciating pain in the lower abdomen",
+    "id": "667c2ad975ef8155cb893109"
+  },
+  {
+    "level": "3",
+    "question": "Mrs. Brooke Shields visited the maternity clinic and asked the NURSE on duty about her ovulation period, her LMP was started last month, May 25, 2024 (28 \u2013 29 day cycle). What would be the ovulation period of Mrs. Shields?",
+    "options": [
+      "June 6 to 12, 2024",
+      "June 7 to 18, 2024",
+      "July 6 to 19, 2024",
+      "July 7 to 20, 2024"
+    ],
+    "answer": "June 7 to 18, 2024",
+    "id": "667c2ad975ef8155cb89310e"
+  },
+  {
+    "level": "4",
+    "question": "The NURSE understanding the action of Hydralazine is;",
+    "options": [
+      "Low glucose level",
+      "Low blood pressure",
+      "Stimulate uterine contraction",
+      "Prevent preterm labor"
+    ],
+    "answer": "Low blood pressure",
+    "id": "667c2ad975ef8155cb893114"
+  },
+  {
+    "level": "4",
+    "question": "Manang Pacing is in her 36th week of pregnancy is admitted to the maternity unit in an effort to control the further development of eclampsia. She is assigned to a private room. The best rationale for this room assignment is:",
+    "options": [
+      "The client is financially able to afford it",
+      "The client would be disturbed if placed in a room where another mother was in active labor",
+      "A quiet, darkened room is important to reduce external stimuli",
+      "A rigid regimen is an important aspect of eclamptic care"
+    ],
+    "answer": "A quiet, darkened room is important to reduce external stimuli",
+    "id": "667c2ad975ef8155cb893116"
+  },
+  {
+    "level": "4",
+    "question": "After doing the Leopold\u2019s maneuvers on a pregnant client, the NURSE determines that the fetus is in cephalic presentation, back is palpated on the left side. To best auscultate the fetal heart tones (FHT), the Doppler is placed on the:",
+    "options": [
+      "Left upper quadrant",
+      "Right upper quadrant",
+      "Left lower quadrant",
+      "Right lower quadrant"
+    ],
+    "answer": "Left lower quadrant",
+    "id": "667c2ad975ef8155cb89311e"
+  },
+  {
+    "level": "4",
+    "question": "When performing a newborn assessment, the NURSE should measure the vital signs in the following sequence:",
+    "options": [
+      "Pulse, respirations, temperature",
+      "Respirations, temperature, pulse",
+      "Respirations, pulse, temperature",
+      "Temperature, pulse, respirations"
+    ],
+    "answer": "Respirations, pulse, temperature",
+    "id": "667c2ad975ef8155cb893122"
+  },
+  {
+    "level": "4",
+    "question": "The fetus is most likely to structurally damaged by the pregnant woman\u2019s ingestion of drugs during the:",
+    "options": [
+      "first trimester",
+      "second trimester",
+      "third trimester",
+      "fourth trimester"
+    ],
+    "answer": "first trimester",
+    "id": "667c2ad975ef8155cb893123"
+  },
+  {
+    "level": "3",
+    "question": "Induction of labor is defined as the deliberate initiation of uterine contractions which is indicated for the following:",
+    "options": [
+      "1,2,and 3 only",
+      "2,3 and 4 only",
+      "1,3 and 4 only",
+      "all of these are correct"
+    ],
+    "answer": "all of these are correct",
+    "id": "667c2ad975ef8155cb89310a"
+  },
+  {
+    "level": "3",
+    "question": "All but one are criteria for induction of labor:",
+    "options": [
+      "Absence of CPD, malpresentation, malposition",
+      "With a history of pregnancy, induced hypertension (Eclampsia)",
+      "Ripe cervix",
+      "Engaged vertex of single gestation"
+    ],
+    "answer": "With a history of pregnancy, induced hypertension (Eclampsia)",
+    "id": "667c2ad975ef8155cb89310b"
+  },
+  {
+    "level": "4",
+    "question": "Which of the following factors is the underlying cause of dystocia?",
+    "options": ["Nutritional", "Medical", "Mechanical", "Environmental"],
+    "answer": "Mechanical",
+    "id": "667c2ad975ef8155cb893110"
+  },
+  {
+    "level": "4",
+    "question": "Instructing the client about her nutritional needs during pregnancy, Miss Santos the NURSE on duty tells her that she will have an increase need for:",
+    "options": ["Potassium", "High-carbohydrate foods", "Fat", "Iron"],
+    "answer": "Iron",
+    "id": "667c2ad975ef8155cb893117"
+  },
+  {
+    "level": "4",
+    "question": "In the Delivery Room (DR) a client has just delivered a healthy 7-pound baby boy. The physician instructs Mr. Michael Reyes the NURSE on duty to suction the baby. The procedure the nurse would use is to:",
+    "options": [
+      "suction the nose",
+      "suction the mouth first",
+      "turn the baby on his side so mucous will drain out before suctioning",
+      "suction nose first then the mouth continuously until the physician gives further instructions"
+    ],
+    "answer": "suction the mouth first",
+    "id": "667c2ad975ef8155cb893118"
+  },
+  {
+    "level": "4",
+    "question": "The term dizygotic refers to twins who have:",
+    "options": [
+      "Development in one amnion and one chorion",
+      "Development physically at different rates from each other",
+      "Been born several hours apart from each other",
+      "Development from two ova and two sperms"
+    ],
+    "answer": "Development from two ova and two sperms",
+    "id": "667c2ad975ef8155cb89311a"
+  },
+  {
+    "level": "3",
+    "question": "Which of the following complications of pregnancy refer to the difficult, painful, prolonged labor due to mechanical factors?",
+    "options": ["Dystocia", "Thrombophlebitis", "Mastitis", "Subinvolution"],
+    "answer": "Dystocia",
+    "id": "667c2ad975ef8155cb89310f"
+  },
+  {
+    "level": "4",
+    "question": "Which of the following is the primary predisposing factor related to mastitis?",
+    "options": [
+      "Epidemic infection from nosocomial sources localizing in the lactiferous glands and ducts",
+      "Temporary urinary retention due to decreased perception of the urge to void",
+      "Breast injury caused by over distention, stasis, abscess formation in the glandular tissue and cracking of the nipples",
+      "Inflation of the vascular endothelium with cloth formation"
+    ],
+    "answer": "Breast injury caused by over distention, stasis, abscess formation in the glandular tissue and cracking of the nipples",
+    "id": "667c2ad975ef8155cb893112"
+  },
+  {
+    "level": "4",
+    "question": "Pituitary hormone that stimulates the secretion of milk from the mammary glands is:",
+    "options": ["Prolactin", "Estrogen", "Oxytocin", "Progesterone"],
+    "answer": "Prolactin",
+    "id": "667c2ad975ef8155cb89311b"
+  },
+  {
+    "level": "4",
+    "question": "When attending the pre natal clinic, a newly pregnant client, having her first child, express concern about her \u201cdark nipples\u201d and a \u201cdark line\u201d from her navel to the pubis. The MIDWIFE explains that these adaptations are due to increased level of:",
+    "options": ["Estrogen", "Progesterone", "Melanin", "Testosterone"],
+    "answer": "Melanin",
+    "id": "667c2ad975ef8155cb89311d"
+  },
+  {
+    "level": "4",
+    "question": "The primary clinical observation for APGAR scoring is the:",
+    "options": [
+      "heart rate",
+      "respiratory rate",
+      "color and appearance",
+      "grimaces"
+    ],
+    "answer": "heart rate",
+    "id": "667c2ad975ef8155cb893121"
+  },
+  {
+    "level": "3",
+    "question": "It is a diamond shaped, normally closes age 12 to 18 months, junction of the two parietal bones and two fused fontal bones is termed as:",
+    "options": [
+      "Posterior fontanelle",
+      "Anterior fontanelle",
+      "Bandriod suture",
+      "Sagittal suture"
+    ],
+    "answer": "Anterior fontanelle",
+    "id": "667c2ad975ef8155cb893104"
+  },
+  {
+    "level": "3",
+    "question": "During woman\u2019s labor, the NURSE must be alert for life-threatening umbilical cord prolapsed, especially:",
+    "options": [
+      "During the second stage of labor",
+      "When a woman is ambulatory",
+      "When the presenting part is not engaged in the pelvic brim",
+      "If the amniotic sac is intact"
+    ],
+    "answer": "When the presenting part is not engaged in the pelvic brim",
+    "id": "667c2ad975ef8155cb893106"
+  },
+  {
+    "level": "3",
+    "question": "The following are the purpose/rationale of episiotomy, EXCEPT:",
+    "options": [
+      "Heals more easily than a laceration",
+      "Shortens first stage labor",
+      "Surgical incision reduces possibility of laceration",
+      "Protects infant\u2019s head from pressure exerted by resistant perineum"
+    ],
+    "answer": "Shortens first stage labor",
+    "id": "667c2ad975ef8155cb89310c"
+  },
+  {
+    "level": "3",
+    "question": "Mrs. Demi Moore asked Miss Phoebe the NURSE about her ovulation period. She said that her LMP was last May 15, 2024 (28 to 30 day cycle). What would be the ovulation period of Mrs. Demi Moore?",
+    "options": [
+      "May 27 to 29, 2024",
+      "May 15 to 16, 2024",
+      "May 10 to 12, 2024",
+      "May 29 to 31, 2024"
+    ],
+    "answer": "May 27 to 29, 2024",
+    "id": "667c2ad975ef8155cb89310d"
+  },
+  {
+    "level": "4",
+    "question": "Homan\u2019s sign is pain elicited by flexion of foot with knee extended is a common clinical manifestation of which of the following:",
+    "options": ["Subinvolution", "Thrombophlebitis", "H-mole", "PIH"],
+    "answer": "Thrombophlebitis",
+    "id": "667c2ad975ef8155cb893111"
+  },
+  {
+    "level": "4",
+    "question": "Aling Cora has just given birth to a stillborn with congenital deformities. She knows this but says, \u201cGusto kong Makita ang baby ko please\u201d. What is the NURSE\u2019s best approach?",
+    "options": [
+      "That\u2019s alright . I\u2019ll bring the baby to you as per doctor advice",
+      "It would be better to let your husband see the baby; then he can tell you",
+      "Are you really sure you want to? You might regret it later.",
+      "Lets talk about it first. Tell me Aling Cora what you expect with your baby?"
+    ],
+    "answer": "Lets talk about it first. Tell me Aling Cora what you expect with your baby?",
+    "id": "667c2ad975ef8155cb893113"
+  },
+  {
+    "level": "4",
+    "question": "Aling Lucing, primagravida, 32-year-old, delivered an 8 lb. 5 oz. baby girl by cesarian section. Which of the following actions would NOT be included in the client\u2019s immediate postoperative care?",
+    "options": [
+      "Taking vital signs q15min for 2 to 3 hours",
+      "Checking lochia for amount and color q15min for 2 to 3 hours",
+      "Assisting the client to turn, cough and deep breathe",
+      "Offering oral fluids q15min for 2 to 3 hours"
+    ],
+    "answer": "Offering oral fluids q15min for 2 to 3 hours",
+    "id": "667c2ad975ef8155cb893115"
+  },
+  {
+    "level": "4",
+    "question": "A newly pregnant client who is a little overweight asks the NURSE how much weight she should gain over the 9 months. The most appropriate answer by the nurse is:",
+    "options": [
+      "For your size, a little heavy, about 15 pounds would be best.",
+      "It really doesn\u2019t matter exactly how much weight you gain, as long as your diet is healthy",
+      "A gain of about 24-30 pounds is best for mother and baby",
+      "A gain of about 24-30 pounds is best for mother and baby."
+    ],
+    "answer": "A gain of about 24-30 pounds is best for mother and baby",
+    "id": "667c2ad975ef8155cb893119"
+  },
+  {
+    "level": "4",
+    "question": "On a first visit, a client asks Mr. Red the NURSE on duty, \u201cTotoo ba na e-eksaminin (internal examination) ako ni doctor ngayon?\u201d The nurse should respond:",
+    "options": [
+      "Yes. Have you ever had an internal examination done before?",
+      "Are you fearful of having internal examination done?",
+      "Yes. An internal examination is done to all mothers, but it is only slightly uncomfortable.",
+      "No. It\u2019s up to you to decide. Are you afraid now? So we can re-schedule the examination."
+    ],
+    "answer": "Yes. An internal examination is done to all mothers, but it is only slightly uncomfortable.",
+    "id": "667c2ad975ef8155cb89311c"
+  },
+  {
+    "level": "4",
+    "question": "During delivery Dr. Suarez performs an episiotomy. Miss Aquino the NURSE on duty reminds the client that this is most commonly done to:",
+    "options": [
+      "Stretch the perineum",
+      "Limit postpartal discomfort",
+      "Prevent lacerations during birth",
+      "Expedite delivery"
+    ],
+    "answer": "Prevent lacerations during birth",
+    "id": "667c2ad975ef8155cb89311f"
+  },
+  {
+    "level": "4",
+    "question": "During postpartum period, Rubio the NURSE on duty examines the client and identifies the presence of lochia serosa and feels the fundus four fingerbreadths below the umbilicus. This indicates that the time elapsed is:",
+    "options": [
+      "1 to 3 days postpartum",
+      "4 to 5 days postpartum",
+      "12 to 14 days postpartum",
+      "14 to 16 days postpartum"
+    ],
+    "answer": "4 to 5 days postpartum",
+    "id": "667c2ad975ef8155cb893120"
+  }
+]
