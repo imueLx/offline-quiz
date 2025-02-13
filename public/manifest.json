@@ -43,7 +43,7 @@
   "lang": "en",
   "name": "QUIZ: Test Your Knowledge!",
   "short_name": "Quiz App",
-  "description": "Enhance your nursing and healthcare knowledge with this interactive Quiz App! Challenge yourself with a variety of health-related questions. Perfect for learning and professional development! - Provided by: Dra. AILEEN M. MANINGAS - Developed by: Uel",
+  "description": "Enhance your nursing and healthcare knowledge with this interactive Quiz App! Challenge yourself with a variety of health-related questions. Perfect for learning and professional development! \n\nProvided by: Dr. AILEEN M. MANINGAS.\nDeveloped by: Uel",
   "id": "quiz-app-offline",
   "scope": "/",
   "start_url": "/",
@@ -62,5 +62,11 @@
         }
       ]
     }
-  ]
+  ],
+  "iarc_rating_id": "13",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "launch_handler": {
+    "client_mode": "navigate-new"
+  }
 }

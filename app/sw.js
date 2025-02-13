@@ -10,7 +10,13 @@ const serwist = new Serwist({
   fallbacks: {
     entries: [
       {
-        url: "/offline", // the page that'll display if user goes offline
+        url: "/offline",
+        matcher({ request }) {
+          return request.destination === "document";
+        },
+      },
+      {
+        url: "/offline.html",
         matcher({ request }) {
           return request.destination === "document";
         },
