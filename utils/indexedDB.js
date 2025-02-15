@@ -22,7 +22,7 @@ export const initDB = async () => {
 export const saveQuestionsToIDB = async (questions, mode) => {
   try {
     const db = await initDB();
-    const storeName = mode === "hard" ? HARD_STORE_NAME : EASY_STORE_NAME;
+    const storeName = mode === "difficult" ? HARD_STORE_NAME : EASY_STORE_NAME;
     const tx = db.transaction(storeName, "readwrite");
     const store = tx.objectStore(storeName);
 
@@ -43,7 +43,7 @@ export const saveQuestionsToIDB = async (questions, mode) => {
 export const fetchQuestionsFromIDB = async (mode, level = null) => {
   try {
     const db = await initDB();
-    const storeName = mode === "hard" ? HARD_STORE_NAME : EASY_STORE_NAME;
+    const storeName = mode === "difficult" ? HARD_STORE_NAME : EASY_STORE_NAME;
     const tx = db.transaction(storeName, "readonly");
     const store = tx.objectStore(storeName);
 

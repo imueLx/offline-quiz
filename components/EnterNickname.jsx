@@ -37,7 +37,7 @@ const EnterNickname = ({
           className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:border-teal-500 focus:ring focus:ring-teal-500 focus:ring-opacity-50"
         >
           <option value="easy">Easy Mode</option>
-          <option value="hard">Hard Mode</option>
+          <option value="difficult">Difficult Mode</option>
         </select>
       </label>
       <label className="block mt-4">
